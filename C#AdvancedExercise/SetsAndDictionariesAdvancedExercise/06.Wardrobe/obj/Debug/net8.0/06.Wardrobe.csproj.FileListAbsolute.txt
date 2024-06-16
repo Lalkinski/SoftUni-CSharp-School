@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\06.Wardrobe\bin\Debug\net8.0\06.Wardrobe.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\06.Wardrobe\bin\Debug\net8.0\06.Wardrobe.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\06.Wardrobe\bin\Debug\net8.0\06.Wardrobe.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\06.Wardrobe\bin\Debug\net8.0\06.Wardrobe.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\06.Wardrobe\bin\Debug\net8.0\06.Wardrobe.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\06.Wardrobe\obj\Debug\net8.0\06.Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\06.Wardrobe\obj\Debug\net8.0\06.Wardrobe.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\06.Wardrobe\obj\Debug\net8.0\06.Wardrobe.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\06.Wardrobe\obj\Debug\net8.0\06.Wardrobe.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\06.Wardrobe\obj\Debug\net8.0\06.Wardrobe.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\06.Wardrobe\obj\Debug\net8.0\refint\06.Wardrobe.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\06.Wardrobe\obj\Debug\net8.0\06.Wardrobe.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\06.Wardrobe\obj\Debug\net8.0\06.Wardrobe.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\06.Wardrobe\obj\Debug\net8.0\ref\06.Wardrobe.dll
