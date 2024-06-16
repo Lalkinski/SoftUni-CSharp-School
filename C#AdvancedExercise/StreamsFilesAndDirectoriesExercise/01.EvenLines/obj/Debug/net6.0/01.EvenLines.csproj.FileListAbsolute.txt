@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StreamsFilesAndDirectories\StreamsFilesAndDirectories\01.EvenLines\obj\Debug\net6.0\01.EvenLines.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StreamsFilesAndDirectories\StreamsFilesAndDirectories\01.EvenLines\obj\Debug\net6.0\01.EvenLines.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StreamsFilesAndDirectories\StreamsFilesAndDirectories\01.EvenLines\obj\Debug\net6.0\01.EvenLines.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StreamsFilesAndDirectories\StreamsFilesAndDirectories\01.EvenLines\obj\Debug\net6.0\01.EvenLines.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StreamsFilesAndDirectories\StreamsFilesAndDirectories\01.EvenLines\bin\Debug\net6.0\01.EvenLines.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StreamsFilesAndDirectories\StreamsFilesAndDirectories\01.EvenLines\bin\Debug\net6.0\01.EvenLines.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StreamsFilesAndDirectories\StreamsFilesAndDirectories\01.EvenLines\bin\Debug\net6.0\01.EvenLines.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StreamsFilesAndDirectories\StreamsFilesAndDirectories\01.EvenLines\bin\Debug\net6.0\01.EvenLines.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StreamsFilesAndDirectories\StreamsFilesAndDirectories\01.EvenLines\bin\Debug\net6.0\01.EvenLines.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StreamsFilesAndDirectories\StreamsFilesAndDirectories\01.EvenLines\obj\Debug\net6.0\01.EvenLines.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StreamsFilesAndDirectories\StreamsFilesAndDirectories\01.EvenLines\obj\Debug\net6.0\refint\01.EvenLines.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StreamsFilesAndDirectories\StreamsFilesAndDirectories\01.EvenLines\obj\Debug\net6.0\01.EvenLines.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StreamsFilesAndDirectories\StreamsFilesAndDirectories\01.EvenLines\obj\Debug\net6.0\01.EvenLines.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StreamsFilesAndDirectories\StreamsFilesAndDirectories\01.EvenLines\obj\Debug\net6.0\ref\01.EvenLines.dll
