@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\3.PrimaryDiagonal\bin\Debug\net8.0\3.PrimaryDiagonal.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\3.PrimaryDiagonal\bin\Debug\net8.0\3.PrimaryDiagonal.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\3.PrimaryDiagonal\bin\Debug\net8.0\3.PrimaryDiagonal.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\3.PrimaryDiagonal\bin\Debug\net8.0\3.PrimaryDiagonal.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\3.PrimaryDiagonal\bin\Debug\net8.0\3.PrimaryDiagonal.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\3.PrimaryDiagonal\obj\Debug\net8.0\3.PrimaryDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\3.PrimaryDiagonal\obj\Debug\net8.0\3.PrimaryDiagonal.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\3.PrimaryDiagonal\obj\Debug\net8.0\3.PrimaryDiagonal.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\3.PrimaryDiagonal\obj\Debug\net8.0\3.PrimaryDiagonal.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\3.PrimaryDiagonal\obj\Debug\net8.0\3.PrimaryDiagonal.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\3.PrimaryDiagonal\obj\Debug\net8.0\refint\3.PrimaryDiagonal.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\3.PrimaryDiagonal\obj\Debug\net8.0\3.PrimaryDiagonal.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\3.PrimaryDiagonal\obj\Debug\net8.0\3.PrimaryDiagonal.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\3.PrimaryDiagonal\obj\Debug\net8.0\ref\3.PrimaryDiagonal.dll
