@@ -1,0 +1,14 @@
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\5. Sum Even Numbers\bin\Debug\net8.0\5. Sum Even Numbers.exe
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\5. Sum Even Numbers\bin\Debug\net8.0\5. Sum Even Numbers.deps.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\5. Sum Even Numbers\bin\Debug\net8.0\5. Sum Even Numbers.runtimeconfig.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\5. Sum Even Numbers\bin\Debug\net8.0\5. Sum Even Numbers.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\5. Sum Even Numbers\bin\Debug\net8.0\5. Sum Even Numbers.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\5. Sum Even Numbers\obj\Debug\net8.0\5. Sum Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\5. Sum Even Numbers\obj\Debug\net8.0\5. Sum Even Numbers.AssemblyInfoInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\5. Sum Even Numbers\obj\Debug\net8.0\5. Sum Even Numbers.AssemblyInfo.cs
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\5. Sum Even Numbers\obj\Debug\net8.0\5. Sum Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\5. Sum Even Numbers\obj\Debug\net8.0\5. Sum Even Numbers.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\5. Sum Even Numbers\obj\Debug\net8.0\refint\5. Sum Even Numbers.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\5. Sum Even Numbers\obj\Debug\net8.0\5. Sum Even Numbers.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\5. Sum Even Numbers\obj\Debug\net8.0\5. Sum Even Numbers.genruntimeconfig.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\5. Sum Even Numbers\obj\Debug\net8.0\ref\5. Sum Even Numbers.dll
