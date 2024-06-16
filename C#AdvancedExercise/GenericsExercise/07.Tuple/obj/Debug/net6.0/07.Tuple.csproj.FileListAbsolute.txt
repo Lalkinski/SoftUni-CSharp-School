@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\Generics\Generics\07.Tuple\bin\Debug\net6.0\07.Tuple.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\Generics\Generics\07.Tuple\bin\Debug\net6.0\07.Tuple.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\Generics\Generics\07.Tuple\bin\Debug\net6.0\07.Tuple.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\Generics\Generics\07.Tuple\bin\Debug\net6.0\07.Tuple.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\Generics\Generics\07.Tuple\bin\Debug\net6.0\07.Tuple.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\Generics\Generics\07.Tuple\obj\Debug\net6.0\07.Tuple.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\Generics\Generics\07.Tuple\obj\Debug\net6.0\07.Tuple.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\Generics\Generics\07.Tuple\obj\Debug\net6.0\07.Tuple.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\Generics\Generics\07.Tuple\obj\Debug\net6.0\07.Tuple.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\Generics\Generics\07.Tuple\obj\Debug\net6.0\07.Tuple.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\Generics\Generics\07.Tuple\obj\Debug\net6.0\refint\07.Tuple.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\Generics\Generics\07.Tuple\obj\Debug\net6.0\07.Tuple.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\Generics\Generics\07.Tuple\obj\Debug\net6.0\07.Tuple.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\Generics\Generics\07.Tuple\obj\Debug\net6.0\ref\07.Tuple.dll
