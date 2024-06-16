@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\08BalancedParenthesis\bin\Debug\net8.0\08BalancedParenthesis.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\08BalancedParenthesis\bin\Debug\net8.0\08BalancedParenthesis.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\08BalancedParenthesis\bin\Debug\net8.0\08BalancedParenthesis.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\08BalancedParenthesis\bin\Debug\net8.0\08BalancedParenthesis.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\08BalancedParenthesis\bin\Debug\net8.0\08BalancedParenthesis.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\08BalancedParenthesis\obj\Debug\net8.0\08BalancedParenthesis.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\08BalancedParenthesis\obj\Debug\net8.0\08BalancedParenthesis.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\08BalancedParenthesis\obj\Debug\net8.0\08BalancedParenthesis.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\08BalancedParenthesis\obj\Debug\net8.0\08BalancedParenthesis.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\08BalancedParenthesis\obj\Debug\net8.0\08BalancedParenthesis.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\08BalancedParenthesis\obj\Debug\net8.0\refint\08BalancedParenthesis.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\08BalancedParenthesis\obj\Debug\net8.0\08BalancedParenthesis.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\08BalancedParenthesis\obj\Debug\net8.0\08BalancedParenthesis.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\08BalancedParenthesis\obj\Debug\net8.0\ref\08BalancedParenthesis.dll

@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\06.SongsQueue\bin\Debug\net8.0\06.SongsQueue.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\06.SongsQueue\bin\Debug\net8.0\06.SongsQueue.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\06.SongsQueue\bin\Debug\net8.0\06.SongsQueue.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\06.SongsQueue\bin\Debug\net8.0\06.SongsQueue.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\06.SongsQueue\bin\Debug\net8.0\06.SongsQueue.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\06.SongsQueue\obj\Debug\net8.0\refint\06.SongsQueue.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\06.SongsQueue\obj\Debug\net8.0\06.SongsQueue.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\06.SongsQueue\obj\Debug\net8.0\ref\06.SongsQueue.dll
