@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\DefiningClasses\DefiningClasses\SpecialCar\bin\Debug\net6.0\SpecialCar.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\DefiningClasses\DefiningClasses\SpecialCar\bin\Debug\net6.0\SpecialCar.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\DefiningClasses\DefiningClasses\SpecialCar\bin\Debug\net6.0\SpecialCar.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\DefiningClasses\DefiningClasses\SpecialCar\bin\Debug\net6.0\SpecialCar.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\DefiningClasses\DefiningClasses\SpecialCar\bin\Debug\net6.0\SpecialCar.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\DefiningClasses\DefiningClasses\SpecialCar\obj\Debug\net6.0\SpecialCar.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\DefiningClasses\DefiningClasses\SpecialCar\obj\Debug\net6.0\SpecialCar.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\DefiningClasses\DefiningClasses\SpecialCar\obj\Debug\net6.0\SpecialCar.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\DefiningClasses\DefiningClasses\SpecialCar\obj\Debug\net6.0\SpecialCar.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\DefiningClasses\DefiningClasses\SpecialCar\obj\Debug\net6.0\SpecialCar.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\DefiningClasses\DefiningClasses\SpecialCar\obj\Debug\net6.0\refint\SpecialCar.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\DefiningClasses\DefiningClasses\SpecialCar\obj\Debug\net6.0\SpecialCar.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\DefiningClasses\DefiningClasses\SpecialCar\obj\Debug\net6.0\SpecialCar.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\DefiningClasses\DefiningClasses\SpecialCar\obj\Debug\net6.0\ref\SpecialCar.dll
