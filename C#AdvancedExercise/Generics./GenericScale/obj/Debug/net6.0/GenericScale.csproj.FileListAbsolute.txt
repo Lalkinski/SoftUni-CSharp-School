@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\GenericScale\bin\Debug\net6.0\GenericScale.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\GenericScale\bin\Debug\net6.0\GenericScale.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\GenericScale\bin\Debug\net6.0\GenericScale.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\GenericScale\bin\Debug\net6.0\GenericScale.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\GenericScale\bin\Debug\net6.0\GenericScale.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\GenericScale\obj\Debug\net6.0\GenericScale.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\GenericScale\obj\Debug\net6.0\GenericScale.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\GenericScale\obj\Debug\net6.0\GenericScale.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\GenericScale\obj\Debug\net6.0\GenericScale.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\GenericScale\obj\Debug\net6.0\GenericScale.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\GenericScale\obj\Debug\net6.0\refint\GenericScale.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\GenericScale\obj\Debug\net6.0\GenericScale.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\GenericScale\obj\Debug\net6.0\GenericScale.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\GenericScale\obj\Debug\net6.0\ref\GenericScale.dll
