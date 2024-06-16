@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\05.FilterByAge\bin\Debug\net8.0\05.FilterByAge.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\05.FilterByAge\bin\Debug\net8.0\05.FilterByAge.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\05.FilterByAge\bin\Debug\net8.0\05.FilterByAge.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\05.FilterByAge\bin\Debug\net8.0\05.FilterByAge.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\05.FilterByAge\bin\Debug\net8.0\05.FilterByAge.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\05.FilterByAge\obj\Debug\net8.0\05.FilterByAge.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\05.FilterByAge\obj\Debug\net8.0\05.FilterByAge.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\05.FilterByAge\obj\Debug\net8.0\05.FilterByAge.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\05.FilterByAge\obj\Debug\net8.0\05.FilterByAge.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\05.FilterByAge\obj\Debug\net8.0\05.FilterByAge.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\05.FilterByAge\obj\Debug\net8.0\refint\05.FilterByAge.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\05.FilterByAge\obj\Debug\net8.0\05.FilterByAge.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\05.FilterByAge\obj\Debug\net8.0\05.FilterByAge.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\05.FilterByAge\obj\Debug\net8.0\ref\05.FilterByAge.dll
