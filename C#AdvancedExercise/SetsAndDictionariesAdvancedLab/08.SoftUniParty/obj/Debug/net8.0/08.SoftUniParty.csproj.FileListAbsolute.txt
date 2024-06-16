@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\08.SoftUniParty\bin\Debug\net8.0\08.SoftUniParty.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\08.SoftUniParty\bin\Debug\net8.0\08.SoftUniParty.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\08.SoftUniParty\bin\Debug\net8.0\08.SoftUniParty.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\08.SoftUniParty\bin\Debug\net8.0\08.SoftUniParty.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\08.SoftUniParty\bin\Debug\net8.0\08.SoftUniParty.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\08.SoftUniParty\obj\Debug\net8.0\08.SoftUniParty.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\08.SoftUniParty\obj\Debug\net8.0\08.SoftUniParty.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\08.SoftUniParty\obj\Debug\net8.0\08.SoftUniParty.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\08.SoftUniParty\obj\Debug\net8.0\08.SoftUniParty.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\08.SoftUniParty\obj\Debug\net8.0\08.SoftUniParty.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\08.SoftUniParty\obj\Debug\net8.0\refint\08.SoftUniParty.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\08.SoftUniParty\obj\Debug\net8.0\08.SoftUniParty.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\08.SoftUniParty\obj\Debug\net8.0\08.SoftUniParty.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\08.SoftUniParty\obj\Debug\net8.0\ref\08.SoftUniParty.dll
