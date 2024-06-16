@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\03.SimpleCalculator\bin\Debug\net8.0\03.SimpleCalculator.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\03.SimpleCalculator\bin\Debug\net8.0\03.SimpleCalculator.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\03.SimpleCalculator\bin\Debug\net8.0\03.SimpleCalculator.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\03.SimpleCalculator\bin\Debug\net8.0\03.SimpleCalculator.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\03.SimpleCalculator\bin\Debug\net8.0\03.SimpleCalculator.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\03.SimpleCalculator\obj\Debug\net8.0\03.SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\03.SimpleCalculator\obj\Debug\net8.0\03.SimpleCalculator.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\03.SimpleCalculator\obj\Debug\net8.0\03.SimpleCalculator.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\03.SimpleCalculator\obj\Debug\net8.0\03.SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\03.SimpleCalculator\obj\Debug\net8.0\03.SimpleCalculator.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\03.SimpleCalculator\obj\Debug\net8.0\refint\03.SimpleCalculator.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\03.SimpleCalculator\obj\Debug\net8.0\03.SimpleCalculator.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\03.SimpleCalculator\obj\Debug\net8.0\03.SimpleCalculator.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\03.SimpleCalculator\obj\Debug\net8.0\ref\03.SimpleCalculator.dll
