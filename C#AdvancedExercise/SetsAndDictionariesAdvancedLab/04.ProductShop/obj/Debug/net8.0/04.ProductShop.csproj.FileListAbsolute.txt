@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\04.ProductShop\bin\Debug\net8.0\04.ProductShop.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\04.ProductShop\bin\Debug\net8.0\04.ProductShop.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\04.ProductShop\bin\Debug\net8.0\04.ProductShop.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\04.ProductShop\bin\Debug\net8.0\04.ProductShop.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\04.ProductShop\bin\Debug\net8.0\04.ProductShop.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\04.ProductShop\obj\Debug\net8.0\04.ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\04.ProductShop\obj\Debug\net8.0\04.ProductShop.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\04.ProductShop\obj\Debug\net8.0\04.ProductShop.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\04.ProductShop\obj\Debug\net8.0\04.ProductShop.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\04.ProductShop\obj\Debug\net8.0\04.ProductShop.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\04.ProductShop\obj\Debug\net8.0\refint\04.ProductShop.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\04.ProductShop\obj\Debug\net8.0\04.ProductShop.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\04.ProductShop\obj\Debug\net8.0\04.ProductShop.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\04.ProductShop\obj\Debug\net8.0\ref\04.ProductShop.dll
