@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\03.CountUppercaseWords\bin\Debug\net8.0\03.CountUppercaseWords.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\03.CountUppercaseWords\bin\Debug\net8.0\03.CountUppercaseWords.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\03.CountUppercaseWords\bin\Debug\net8.0\03.CountUppercaseWords.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\03.CountUppercaseWords\bin\Debug\net8.0\03.CountUppercaseWords.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\03.CountUppercaseWords\bin\Debug\net8.0\03.CountUppercaseWords.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\03.CountUppercaseWords\obj\Debug\net8.0\03.CountUppercaseWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\03.CountUppercaseWords\obj\Debug\net8.0\03.CountUppercaseWords.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\03.CountUppercaseWords\obj\Debug\net8.0\03.CountUppercaseWords.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\03.CountUppercaseWords\obj\Debug\net8.0\03.CountUppercaseWords.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\03.CountUppercaseWords\obj\Debug\net8.0\03.CountUppercaseWords.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\03.CountUppercaseWords\obj\Debug\net8.0\refint\03.CountUppercaseWords.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\03.CountUppercaseWords\obj\Debug\net8.0\03.CountUppercaseWords.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\03.CountUppercaseWords\obj\Debug\net8.0\03.CountUppercaseWords.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\03.CountUppercaseWords\obj\Debug\net8.0\ref\03.CountUppercaseWords.dll
