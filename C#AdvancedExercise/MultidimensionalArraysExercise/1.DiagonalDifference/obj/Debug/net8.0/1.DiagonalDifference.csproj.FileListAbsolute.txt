@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\1.DiagonalDifference\bin\Debug\net8.0\1.DiagonalDifference.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\1.DiagonalDifference\bin\Debug\net8.0\1.DiagonalDifference.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\1.DiagonalDifference\bin\Debug\net8.0\1.DiagonalDifference.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\1.DiagonalDifference\bin\Debug\net8.0\1.DiagonalDifference.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\1.DiagonalDifference\bin\Debug\net8.0\1.DiagonalDifference.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\1.DiagonalDifference\obj\Debug\net8.0\1.DiagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\1.DiagonalDifference\obj\Debug\net8.0\1.DiagonalDifference.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\1.DiagonalDifference\obj\Debug\net8.0\1.DiagonalDifference.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\1.DiagonalDifference\obj\Debug\net8.0\1.DiagonalDifference.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\1.DiagonalDifference\obj\Debug\net8.0\1.DiagonalDifference.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\1.DiagonalDifference\obj\Debug\net8.0\refint\1.DiagonalDifference.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\1.DiagonalDifference\obj\Debug\net8.0\1.DiagonalDifference.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\1.DiagonalDifference\obj\Debug\net8.0\1.DiagonalDifference.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\1.DiagonalDifference\obj\Debug\net8.0\ref\1.DiagonalDifference.dll

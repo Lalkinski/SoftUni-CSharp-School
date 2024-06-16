@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\3.MaximalSum\bin\Debug\net8.0\3.MaximalSum.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\3.MaximalSum\bin\Debug\net8.0\3.MaximalSum.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\3.MaximalSum\bin\Debug\net8.0\3.MaximalSum.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\3.MaximalSum\bin\Debug\net8.0\3.MaximalSum.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\3.MaximalSum\bin\Debug\net8.0\3.MaximalSum.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\3.MaximalSum\obj\Debug\net8.0\3.MaximalSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\3.MaximalSum\obj\Debug\net8.0\3.MaximalSum.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\3.MaximalSum\obj\Debug\net8.0\3.MaximalSum.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\3.MaximalSum\obj\Debug\net8.0\3.MaximalSum.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\3.MaximalSum\obj\Debug\net8.0\3.MaximalSum.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\3.MaximalSum\obj\Debug\net8.0\refint\3.MaximalSum.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\3.MaximalSum\obj\Debug\net8.0\3.MaximalSum.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\3.MaximalSum\obj\Debug\net8.0\3.MaximalSum.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\3.MaximalSum\obj\Debug\net8.0\ref\3.MaximalSum.dll

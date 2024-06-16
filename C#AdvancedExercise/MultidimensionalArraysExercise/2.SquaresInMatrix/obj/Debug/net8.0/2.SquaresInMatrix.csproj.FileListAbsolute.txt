@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\2.SquaresInMatrix\bin\Debug\net8.0\2.SquaresInMatrix.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\2.SquaresInMatrix\bin\Debug\net8.0\2.SquaresInMatrix.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\2.SquaresInMatrix\bin\Debug\net8.0\2.SquaresInMatrix.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\2.SquaresInMatrix\bin\Debug\net8.0\2.SquaresInMatrix.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\2.SquaresInMatrix\bin\Debug\net8.0\2.SquaresInMatrix.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\2.SquaresInMatrix\obj\Debug\net8.0\2.SquaresInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\2.SquaresInMatrix\obj\Debug\net8.0\2.SquaresInMatrix.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\2.SquaresInMatrix\obj\Debug\net8.0\2.SquaresInMatrix.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\2.SquaresInMatrix\obj\Debug\net8.0\2.SquaresInMatrix.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\2.SquaresInMatrix\obj\Debug\net8.0\2.SquaresInMatrix.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\2.SquaresInMatrix\obj\Debug\net8.0\refint\2.SquaresInMatrix.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\2.SquaresInMatrix\obj\Debug\net8.0\2.SquaresInMatrix.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\2.SquaresInMatrix\obj\Debug\net8.0\2.SquaresInMatrix.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\2.SquaresInMatrix\obj\Debug\net8.0\ref\2.SquaresInMatrix.dll
