@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\06.RecordUniqueNames\bin\Debug\net8.0\06.RecordUniqueNames.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\06.RecordUniqueNames\bin\Debug\net8.0\06.RecordUniqueNames.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\06.RecordUniqueNames\bin\Debug\net8.0\06.RecordUniqueNames.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\06.RecordUniqueNames\bin\Debug\net8.0\06.RecordUniqueNames.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\06.RecordUniqueNames\bin\Debug\net8.0\06.RecordUniqueNames.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\06.RecordUniqueNames\obj\Debug\net8.0\06.RecordUniqueNames.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\06.RecordUniqueNames\obj\Debug\net8.0\06.RecordUniqueNames.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\06.RecordUniqueNames\obj\Debug\net8.0\06.RecordUniqueNames.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\06.RecordUniqueNames\obj\Debug\net8.0\06.RecordUniqueNames.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\06.RecordUniqueNames\obj\Debug\net8.0\06.RecordUniqueNames.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\06.RecordUniqueNames\obj\Debug\net8.0\refint\06.RecordUniqueNames.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\06.RecordUniqueNames\obj\Debug\net8.0\06.RecordUniqueNames.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\06.RecordUniqueNames\obj\Debug\net8.0\06.RecordUniqueNames.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\06.RecordUniqueNames\obj\Debug\net8.0\ref\06.RecordUniqueNames.dll
