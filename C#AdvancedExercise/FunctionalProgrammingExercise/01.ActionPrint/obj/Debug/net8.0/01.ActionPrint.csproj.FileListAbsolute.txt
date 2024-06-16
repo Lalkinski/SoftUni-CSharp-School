@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\01.ActionPrint\bin\Debug\net8.0\01.ActionPrint.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\01.ActionPrint\bin\Debug\net8.0\01.ActionPrint.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\01.ActionPrint\bin\Debug\net8.0\01.ActionPrint.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\01.ActionPrint\bin\Debug\net8.0\01.ActionPrint.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\01.ActionPrint\bin\Debug\net8.0\01.ActionPrint.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\01.ActionPrint\obj\Debug\net8.0\01.ActionPrint.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\01.ActionPrint\obj\Debug\net8.0\01.ActionPrint.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\01.ActionPrint\obj\Debug\net8.0\01.ActionPrint.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\01.ActionPrint\obj\Debug\net8.0\01.ActionPrint.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\01.ActionPrint\obj\Debug\net8.0\01.ActionPrint.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\01.ActionPrint\obj\Debug\net8.0\refint\01.ActionPrint.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\01.ActionPrint\obj\Debug\net8.0\01.ActionPrint.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\01.ActionPrint\obj\Debug\net8.0\01.ActionPrint.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\01.ActionPrint\obj\Debug\net8.0\ref\01.ActionPrint.dll
