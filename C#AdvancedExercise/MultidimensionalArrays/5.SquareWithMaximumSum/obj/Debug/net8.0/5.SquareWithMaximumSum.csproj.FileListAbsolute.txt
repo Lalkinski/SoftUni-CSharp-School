@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\5.SquareWithMaximumSum\bin\Debug\net8.0\5.SquareWithMaximumSum.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\5.SquareWithMaximumSum\bin\Debug\net8.0\5.SquareWithMaximumSum.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\5.SquareWithMaximumSum\bin\Debug\net8.0\5.SquareWithMaximumSum.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\5.SquareWithMaximumSum\bin\Debug\net8.0\5.SquareWithMaximumSum.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\5.SquareWithMaximumSum\bin\Debug\net8.0\5.SquareWithMaximumSum.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\5.SquareWithMaximumSum\obj\Debug\net8.0\5.SquareWithMaximumSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\5.SquareWithMaximumSum\obj\Debug\net8.0\5.SquareWithMaximumSum.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\5.SquareWithMaximumSum\obj\Debug\net8.0\5.SquareWithMaximumSum.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\5.SquareWithMaximumSum\obj\Debug\net8.0\5.SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\5.SquareWithMaximumSum\obj\Debug\net8.0\5.SquareWithMaximumSum.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\5.SquareWithMaximumSum\obj\Debug\net8.0\refint\5.SquareWithMaximumSum.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\5.SquareWithMaximumSum\obj\Debug\net8.0\5.SquareWithMaximumSum.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\5.SquareWithMaximumSum\obj\Debug\net8.0\5.SquareWithMaximumSum.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\5.SquareWithMaximumSum\obj\Debug\net8.0\ref\5.SquareWithMaximumSum.dll
