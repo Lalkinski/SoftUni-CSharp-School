@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\04.AddVAT\bin\Debug\net8.0\04.AddVAT.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\04.AddVAT\bin\Debug\net8.0\04.AddVAT.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\04.AddVAT\bin\Debug\net8.0\04.AddVAT.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\04.AddVAT\bin\Debug\net8.0\04.AddVAT.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\04.AddVAT\bin\Debug\net8.0\04.AddVAT.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\04.AddVAT\obj\Debug\net8.0\04.AddVAT.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\04.AddVAT\obj\Debug\net8.0\04.AddVAT.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\04.AddVAT\obj\Debug\net8.0\04.AddVAT.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\04.AddVAT\obj\Debug\net8.0\04.AddVAT.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\04.AddVAT\obj\Debug\net8.0\04.AddVAT.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\04.AddVAT\obj\Debug\net8.0\refint\04.AddVAT.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\04.AddVAT\obj\Debug\net8.0\04.AddVAT.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\04.AddVAT\obj\Debug\net8.0\04.AddVAT.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\FunctionalProgramming\FunctionalProgramming\04.AddVAT\obj\Debug\net8.0\ref\04.AddVAT.dll
