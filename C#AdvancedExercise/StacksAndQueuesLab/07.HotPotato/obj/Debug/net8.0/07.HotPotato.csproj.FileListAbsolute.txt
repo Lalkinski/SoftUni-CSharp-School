@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\07.HotPotato\bin\Debug\net8.0\07.HotPotato.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\07.HotPotato\bin\Debug\net8.0\07.HotPotato.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\07.HotPotato\bin\Debug\net8.0\07.HotPotato.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\07.HotPotato\bin\Debug\net8.0\07.HotPotato.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\07.HotPotato\bin\Debug\net8.0\07.HotPotato.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\07.HotPotato\obj\Debug\net8.0\07.HotPotato.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\07.HotPotato\obj\Debug\net8.0\07.HotPotato.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\07.HotPotato\obj\Debug\net8.0\07.HotPotato.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\07.HotPotato\obj\Debug\net8.0\07.HotPotato.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\07.HotPotato\obj\Debug\net8.0\07.HotPotato.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\07.HotPotato\obj\Debug\net8.0\refint\07.HotPotato.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\07.HotPotato\obj\Debug\net8.0\07.HotPotato.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\07.HotPotato\obj\Debug\net8.0\07.HotPotato.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\07.HotPotato\obj\Debug\net8.0\ref\07.HotPotato.dll
