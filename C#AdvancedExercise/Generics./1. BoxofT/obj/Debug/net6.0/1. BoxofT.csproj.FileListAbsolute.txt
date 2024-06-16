@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\1. BoxofT\bin\Debug\net6.0\1. BoxofT.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\1. BoxofT\bin\Debug\net6.0\1. BoxofT.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\1. BoxofT\bin\Debug\net6.0\1. BoxofT.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\1. BoxofT\bin\Debug\net6.0\1. BoxofT.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\1. BoxofT\bin\Debug\net6.0\1. BoxofT.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\1. BoxofT\obj\Debug\net6.0\1. BoxofT.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\1. BoxofT\obj\Debug\net6.0\1. BoxofT.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\1. BoxofT\obj\Debug\net6.0\1. BoxofT.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\1. BoxofT\obj\Debug\net6.0\1. BoxofT.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\1. BoxofT\obj\Debug\net6.0\1. BoxofT.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\1. BoxofT\obj\Debug\net6.0\refint\1. BoxofT.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\1. BoxofT\obj\Debug\net6.0\1. BoxofT.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\1. BoxofT\obj\Debug\net6.0\1. BoxofT.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\1. BoxofT\obj\Debug\net6.0\ref\1. BoxofT.dll
