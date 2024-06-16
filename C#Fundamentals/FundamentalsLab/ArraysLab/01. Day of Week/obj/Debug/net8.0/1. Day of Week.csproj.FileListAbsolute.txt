@@ -1,0 +1,14 @@
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\1. Day of Week\bin\Debug\net8.0\1. Day of Week.exe
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\1. Day of Week\bin\Debug\net8.0\1. Day of Week.deps.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\1. Day of Week\bin\Debug\net8.0\1. Day of Week.runtimeconfig.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\1. Day of Week\bin\Debug\net8.0\1. Day of Week.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\1. Day of Week\bin\Debug\net8.0\1. Day of Week.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\1. Day of Week\obj\Debug\net8.0\1. Day of Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\1. Day of Week\obj\Debug\net8.0\1. Day of Week.AssemblyInfoInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\1. Day of Week\obj\Debug\net8.0\1. Day of Week.AssemblyInfo.cs
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\1. Day of Week\obj\Debug\net8.0\1. Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\1. Day of Week\obj\Debug\net8.0\1. Day of Week.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\1. Day of Week\obj\Debug\net8.0\refint\1. Day of Week.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\1. Day of Week\obj\Debug\net8.0\1. Day of Week.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\1. Day of Week\obj\Debug\net8.0\1. Day of Week.genruntimeconfig.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\1. Day of Week\obj\Debug\net8.0\ref\1. Day of Week.dll
