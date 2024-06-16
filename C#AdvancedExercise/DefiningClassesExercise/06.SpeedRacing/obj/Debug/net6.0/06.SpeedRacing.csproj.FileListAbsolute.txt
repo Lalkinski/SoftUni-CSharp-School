@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\DefiningClasses\DefiningClasses\06.SpeedRacing\bin\Debug\net6.0\06.SpeedRacing.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\DefiningClasses\DefiningClasses\06.SpeedRacing\bin\Debug\net6.0\06.SpeedRacing.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\DefiningClasses\DefiningClasses\06.SpeedRacing\bin\Debug\net6.0\06.SpeedRacing.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\DefiningClasses\DefiningClasses\06.SpeedRacing\bin\Debug\net6.0\06.SpeedRacing.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\DefiningClasses\DefiningClasses\06.SpeedRacing\bin\Debug\net6.0\06.SpeedRacing.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\DefiningClasses\DefiningClasses\06.SpeedRacing\obj\Debug\net6.0\06.SpeedRacing.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\DefiningClasses\DefiningClasses\06.SpeedRacing\obj\Debug\net6.0\06.SpeedRacing.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\DefiningClasses\DefiningClasses\06.SpeedRacing\obj\Debug\net6.0\06.SpeedRacing.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\DefiningClasses\DefiningClasses\06.SpeedRacing\obj\Debug\net6.0\06.SpeedRacing.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\DefiningClasses\DefiningClasses\06.SpeedRacing\obj\Debug\net6.0\06.SpeedRacing.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\DefiningClasses\DefiningClasses\06.SpeedRacing\obj\Debug\net6.0\refint\06.SpeedRacing.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\DefiningClasses\DefiningClasses\06.SpeedRacing\obj\Debug\net6.0\06.SpeedRacing.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\DefiningClasses\DefiningClasses\06.SpeedRacing\obj\Debug\net6.0\06.SpeedRacing.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\DefiningClasses\DefiningClasses\06.SpeedRacing\obj\Debug\net6.0\ref\06.SpeedRacing.dll
