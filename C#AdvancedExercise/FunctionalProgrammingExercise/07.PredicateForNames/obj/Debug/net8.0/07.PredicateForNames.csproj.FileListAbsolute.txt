@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\07.PredicateForNames\bin\Debug\net8.0\07.PredicateForNames.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\07.PredicateForNames\bin\Debug\net8.0\07.PredicateForNames.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\07.PredicateForNames\bin\Debug\net8.0\07.PredicateForNames.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\07.PredicateForNames\bin\Debug\net8.0\07.PredicateForNames.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\07.PredicateForNames\bin\Debug\net8.0\07.PredicateForNames.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\07.PredicateForNames\obj\Debug\net8.0\07.PredicateForNames.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\07.PredicateForNames\obj\Debug\net8.0\07.PredicateForNames.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\07.PredicateForNames\obj\Debug\net8.0\07.PredicateForNames.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\07.PredicateForNames\obj\Debug\net8.0\07.PredicateForNames.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\07.PredicateForNames\obj\Debug\net8.0\07.PredicateForNames.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\07.PredicateForNames\obj\Debug\net8.0\refint\07.PredicateForNames.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\07.PredicateForNames\obj\Debug\net8.0\07.PredicateForNames.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\07.PredicateForNames\obj\Debug\net8.0\07.PredicateForNames.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\07.PredicateForNames\obj\Debug\net8.0\ref\07.PredicateForNames.dll
