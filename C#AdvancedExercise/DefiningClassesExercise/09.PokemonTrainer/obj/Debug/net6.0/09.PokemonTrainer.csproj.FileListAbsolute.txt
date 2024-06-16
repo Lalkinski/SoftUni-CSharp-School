@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\DefiningClasses\DefiningClasses\09.PokemonTrainer\bin\Debug\net6.0\09.PokemonTrainer.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\DefiningClasses\DefiningClasses\09.PokemonTrainer\bin\Debug\net6.0\09.PokemonTrainer.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\DefiningClasses\DefiningClasses\09.PokemonTrainer\bin\Debug\net6.0\09.PokemonTrainer.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\DefiningClasses\DefiningClasses\09.PokemonTrainer\bin\Debug\net6.0\09.PokemonTrainer.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\DefiningClasses\DefiningClasses\09.PokemonTrainer\bin\Debug\net6.0\09.PokemonTrainer.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\DefiningClasses\DefiningClasses\09.PokemonTrainer\obj\Debug\net6.0\09.PokemonTrainer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\DefiningClasses\DefiningClasses\09.PokemonTrainer\obj\Debug\net6.0\09.PokemonTrainer.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\DefiningClasses\DefiningClasses\09.PokemonTrainer\obj\Debug\net6.0\09.PokemonTrainer.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\DefiningClasses\DefiningClasses\09.PokemonTrainer\obj\Debug\net6.0\09.PokemonTrainer.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\DefiningClasses\DefiningClasses\09.PokemonTrainer\obj\Debug\net6.0\09.PokemonTrainer.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\DefiningClasses\DefiningClasses\09.PokemonTrainer\obj\Debug\net6.0\refint\09.PokemonTrainer.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\DefiningClasses\DefiningClasses\09.PokemonTrainer\obj\Debug\net6.0\09.PokemonTrainer.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\DefiningClasses\DefiningClasses\09.PokemonTrainer\obj\Debug\net6.0\09.PokemonTrainer.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\DefiningClasses\DefiningClasses\09.PokemonTrainer\obj\Debug\net6.0\ref\09.PokemonTrainer.dll
