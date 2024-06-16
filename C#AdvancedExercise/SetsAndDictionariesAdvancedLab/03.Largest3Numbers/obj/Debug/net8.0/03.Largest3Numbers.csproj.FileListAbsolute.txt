@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\03.Largest3Numbers\bin\Debug\net8.0\03.Largest3Numbers.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\03.Largest3Numbers\bin\Debug\net8.0\03.Largest3Numbers.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\03.Largest3Numbers\bin\Debug\net8.0\03.Largest3Numbers.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\03.Largest3Numbers\bin\Debug\net8.0\03.Largest3Numbers.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\03.Largest3Numbers\bin\Debug\net8.0\03.Largest3Numbers.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\03.Largest3Numbers\obj\Debug\net8.0\03.Largest3Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\03.Largest3Numbers\obj\Debug\net8.0\03.Largest3Numbers.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\03.Largest3Numbers\obj\Debug\net8.0\03.Largest3Numbers.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\03.Largest3Numbers\obj\Debug\net8.0\03.Largest3Numbers.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\03.Largest3Numbers\obj\Debug\net8.0\03.Largest3Numbers.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\03.Largest3Numbers\obj\Debug\net8.0\refint\03.Largest3Numbers.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\03.Largest3Numbers\obj\Debug\net8.0\03.Largest3Numbers.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\03.Largest3Numbers\obj\Debug\net8.0\03.Largest3Numbers.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\03.Largest3Numbers\obj\Debug\net8.0\ref\03.Largest3Numbers.dll
