@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\03.PeriodicTable\bin\Debug\net8.0\03.PeriodicTable.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\03.PeriodicTable\bin\Debug\net8.0\03.PeriodicTable.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\03.PeriodicTable\bin\Debug\net8.0\03.PeriodicTable.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\03.PeriodicTable\bin\Debug\net8.0\03.PeriodicTable.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\03.PeriodicTable\bin\Debug\net8.0\03.PeriodicTable.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\03.PeriodicTable\obj\Debug\net8.0\03.PeriodicTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\03.PeriodicTable\obj\Debug\net8.0\03.PeriodicTable.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\03.PeriodicTable\obj\Debug\net8.0\03.PeriodicTable.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\03.PeriodicTable\obj\Debug\net8.0\03.PeriodicTable.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\03.PeriodicTable\obj\Debug\net8.0\03.PeriodicTable.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\03.PeriodicTable\obj\Debug\net8.0\refint\03.PeriodicTable.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\03.PeriodicTable\obj\Debug\net8.0\03.PeriodicTable.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\03.PeriodicTable\obj\Debug\net8.0\03.PeriodicTable.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\SetsAndDictionariesAdvanced\SetsAndDictionariesAdvanced\03.PeriodicTable\obj\Debug\net8.0\ref\03.PeriodicTable.dll
