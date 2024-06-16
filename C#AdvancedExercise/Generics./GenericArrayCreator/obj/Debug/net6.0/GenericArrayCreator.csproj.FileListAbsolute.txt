@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\GenericArrayCreator\bin\Debug\net6.0\GenericArrayCreator.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\GenericArrayCreator\bin\Debug\net6.0\GenericArrayCreator.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\GenericArrayCreator\bin\Debug\net6.0\GenericArrayCreator.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\GenericArrayCreator\bin\Debug\net6.0\GenericArrayCreator.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\GenericArrayCreator\bin\Debug\net6.0\GenericArrayCreator.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\GenericArrayCreator\obj\Debug\net6.0\GenericArrayCreator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\GenericArrayCreator\obj\Debug\net6.0\GenericArrayCreator.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\GenericArrayCreator\obj\Debug\net6.0\GenericArrayCreator.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\GenericArrayCreator\obj\Debug\net6.0\GenericArrayCreator.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\GenericArrayCreator\obj\Debug\net6.0\GenericArrayCreator.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\GenericArrayCreator\obj\Debug\net6.0\refint\GenericArrayCreator.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\GenericArrayCreator\obj\Debug\net6.0\GenericArrayCreator.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\GenericArrayCreator\obj\Debug\net6.0\GenericArrayCreator.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\GenericsLab\BoxOfT\GenericArrayCreator\obj\Debug\net6.0\ref\GenericArrayCreator.dll
