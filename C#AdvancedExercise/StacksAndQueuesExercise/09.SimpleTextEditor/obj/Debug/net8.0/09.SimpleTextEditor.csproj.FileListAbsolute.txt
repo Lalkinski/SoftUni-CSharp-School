@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\09.SimpleTextEditor\bin\Debug\net8.0\09.SimpleTextEditor.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\09.SimpleTextEditor\bin\Debug\net8.0\09.SimpleTextEditor.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\09.SimpleTextEditor\bin\Debug\net8.0\09.SimpleTextEditor.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\09.SimpleTextEditor\bin\Debug\net8.0\09.SimpleTextEditor.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\09.SimpleTextEditor\bin\Debug\net8.0\09.SimpleTextEditor.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\09.SimpleTextEditor\obj\Debug\net8.0\09.SimpleTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\09.SimpleTextEditor\obj\Debug\net8.0\09.SimpleTextEditor.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\09.SimpleTextEditor\obj\Debug\net8.0\09.SimpleTextEditor.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\09.SimpleTextEditor\obj\Debug\net8.0\09.SimpleTextEditor.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\09.SimpleTextEditor\obj\Debug\net8.0\09.SimpleTextEditor.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\09.SimpleTextEditor\obj\Debug\net8.0\refint\09.SimpleTextEditor.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\09.SimpleTextEditor\obj\Debug\net8.0\09.SimpleTextEditor.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\09.SimpleTextEditor\obj\Debug\net8.0\09.SimpleTextEditor.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\09.SimpleTextEditor\obj\Debug\net8.0\ref\09.SimpleTextEditor.dll
