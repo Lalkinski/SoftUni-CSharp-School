@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\10.ThePartyReservationFilterModule\bin\Debug\net8.0\10.ThePartyReservationFilterModule.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\10.ThePartyReservationFilterModule\bin\Debug\net8.0\10.ThePartyReservationFilterModule.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\10.ThePartyReservationFilterModule\bin\Debug\net8.0\10.ThePartyReservationFilterModule.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\10.ThePartyReservationFilterModule\bin\Debug\net8.0\10.ThePartyReservationFilterModule.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\10.ThePartyReservationFilterModule\bin\Debug\net8.0\10.ThePartyReservationFilterModule.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\10.ThePartyReservationFilterModule\obj\Debug\net8.0\10.ThePartyReservationFilterModule.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\10.ThePartyReservationFilterModule\obj\Debug\net8.0\10.ThePartyReservationFilterModule.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\10.ThePartyReservationFilterModule\obj\Debug\net8.0\10.ThePartyReservationFilterModule.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\10.ThePartyReservationFilterModule\obj\Debug\net8.0\10.ThePartyReservationFilterModule.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\10.ThePartyReservationFilterModule\obj\Debug\net8.0\10.ThePartyReservationFilterModule.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\10.ThePartyReservationFilterModule\obj\Debug\net8.0\refint\10.ThePartyReservationFilterModule.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\10.ThePartyReservationFilterModule\obj\Debug\net8.0\10.ThePartyReservationFilterModule.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\10.ThePartyReservationFilterModule\obj\Debug\net8.0\10.ThePartyReservationFilterModule.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\10.ThePartyReservationFilterModule\obj\Debug\net8.0\ref\10.ThePartyReservationFilterModule.dll
