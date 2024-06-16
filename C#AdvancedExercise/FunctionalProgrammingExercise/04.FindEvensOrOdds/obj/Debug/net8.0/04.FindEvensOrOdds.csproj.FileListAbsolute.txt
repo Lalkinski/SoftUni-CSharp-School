@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\04.FindEvensOrOdds\bin\Debug\net8.0\04.FindEvensOrOdds.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\04.FindEvensOrOdds\bin\Debug\net8.0\04.FindEvensOrOdds.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\04.FindEvensOrOdds\bin\Debug\net8.0\04.FindEvensOrOdds.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\04.FindEvensOrOdds\bin\Debug\net8.0\04.FindEvensOrOdds.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\04.FindEvensOrOdds\bin\Debug\net8.0\04.FindEvensOrOdds.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\04.FindEvensOrOdds\obj\Debug\net8.0\04.FindEvensOrOdds.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\04.FindEvensOrOdds\obj\Debug\net8.0\04.FindEvensOrOdds.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\04.FindEvensOrOdds\obj\Debug\net8.0\04.FindEvensOrOdds.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\04.FindEvensOrOdds\obj\Debug\net8.0\04.FindEvensOrOdds.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\04.FindEvensOrOdds\obj\Debug\net8.0\04.FindEvensOrOdds.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\04.FindEvensOrOdds\obj\Debug\net8.0\refint\04.FindEvensOrOdds.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\04.FindEvensOrOdds\obj\Debug\net8.0\04.FindEvensOrOdds.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\04.FindEvensOrOdds\obj\Debug\net8.0\04.FindEvensOrOdds.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\04.FindEvensOrOdds\obj\Debug\net8.0\ref\04.FindEvensOrOdds.dll

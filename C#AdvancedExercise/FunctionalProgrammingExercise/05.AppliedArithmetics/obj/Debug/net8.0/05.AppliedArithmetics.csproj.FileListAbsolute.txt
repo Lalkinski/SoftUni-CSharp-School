@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\05.AppliedArithmetics\bin\Debug\net8.0\05.AppliedArithmetics.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\05.AppliedArithmetics\bin\Debug\net8.0\05.AppliedArithmetics.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\05.AppliedArithmetics\bin\Debug\net8.0\05.AppliedArithmetics.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\05.AppliedArithmetics\bin\Debug\net8.0\05.AppliedArithmetics.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\05.AppliedArithmetics\bin\Debug\net8.0\05.AppliedArithmetics.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\05.AppliedArithmetics\obj\Debug\net8.0\05.AppliedArithmetics.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\05.AppliedArithmetics\obj\Debug\net8.0\05.AppliedArithmetics.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\05.AppliedArithmetics\obj\Debug\net8.0\05.AppliedArithmetics.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\05.AppliedArithmetics\obj\Debug\net8.0\05.AppliedArithmetics.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\05.AppliedArithmetics\obj\Debug\net8.0\05.AppliedArithmetics.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\05.AppliedArithmetics\obj\Debug\net8.0\refint\05.AppliedArithmetics.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\05.AppliedArithmetics\obj\Debug\net8.0\05.AppliedArithmetics.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\05.AppliedArithmetics\obj\Debug\net8.0\05.AppliedArithmetics.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\FunctionalProgramming\FunctionalProgramming\05.AppliedArithmetics\obj\Debug\net8.0\ref\05.AppliedArithmetics.dll
