@@ -1,0 +1,14 @@
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\07. Equal Arrays\bin\Debug\net8.0\07. Equal Arrays.exe
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\07. Equal Arrays\bin\Debug\net8.0\07. Equal Arrays.deps.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\07. Equal Arrays\bin\Debug\net8.0\07. Equal Arrays.runtimeconfig.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\07. Equal Arrays\bin\Debug\net8.0\07. Equal Arrays.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\07. Equal Arrays\bin\Debug\net8.0\07. Equal Arrays.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\07. Equal Arrays\obj\Debug\net8.0\07. Equal Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\07. Equal Arrays\obj\Debug\net8.0\07. Equal Arrays.AssemblyInfoInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\07. Equal Arrays\obj\Debug\net8.0\07. Equal Arrays.AssemblyInfo.cs
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\07. Equal Arrays\obj\Debug\net8.0\07. Equal Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\07. Equal Arrays\obj\Debug\net8.0\07. Equal Arrays.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\07. Equal Arrays\obj\Debug\net8.0\refint\07. Equal Arrays.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\07. Equal Arrays\obj\Debug\net8.0\07. Equal Arrays.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\07. Equal Arrays\obj\Debug\net8.0\07. Equal Arrays.genruntimeconfig.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Arrays - Lab\07. Equal Arrays\obj\Debug\net8.0\ref\07. Equal Arrays.dll
