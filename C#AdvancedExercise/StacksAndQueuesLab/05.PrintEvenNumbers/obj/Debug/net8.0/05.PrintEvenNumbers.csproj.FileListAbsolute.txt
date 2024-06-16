@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\05.PrintEvenNumbers\bin\Debug\net8.0\05.PrintEvenNumbers.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\05.PrintEvenNumbers\bin\Debug\net8.0\05.PrintEvenNumbers.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\05.PrintEvenNumbers\bin\Debug\net8.0\05.PrintEvenNumbers.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\05.PrintEvenNumbers\bin\Debug\net8.0\05.PrintEvenNumbers.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\05.PrintEvenNumbers\bin\Debug\net8.0\05.PrintEvenNumbers.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\05.PrintEvenNumbers\obj\Debug\net8.0\05.PrintEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\05.PrintEvenNumbers\obj\Debug\net8.0\05.PrintEvenNumbers.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\05.PrintEvenNumbers\obj\Debug\net8.0\05.PrintEvenNumbers.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\05.PrintEvenNumbers\obj\Debug\net8.0\05.PrintEvenNumbers.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\05.PrintEvenNumbers\obj\Debug\net8.0\05.PrintEvenNumbers.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\05.PrintEvenNumbers\obj\Debug\net8.0\refint\05.PrintEvenNumbers.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\05.PrintEvenNumbers\obj\Debug\net8.0\05.PrintEvenNumbers.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\05.PrintEvenNumbers\obj\Debug\net8.0\05.PrintEvenNumbers.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\05.PrintEvenNumbers\obj\Debug\net8.0\ref\05.PrintEvenNumbers.dll

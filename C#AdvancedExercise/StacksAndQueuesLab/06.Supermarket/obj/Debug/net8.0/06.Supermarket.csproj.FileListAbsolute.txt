@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\06.Supermarket\bin\Debug\net8.0\06.Supermarket.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\06.Supermarket\bin\Debug\net8.0\06.Supermarket.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\06.Supermarket\bin\Debug\net8.0\06.Supermarket.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\06.Supermarket\bin\Debug\net8.0\06.Supermarket.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\06.Supermarket\bin\Debug\net8.0\06.Supermarket.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\06.Supermarket\obj\Debug\net8.0\06.Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\06.Supermarket\obj\Debug\net8.0\06.Supermarket.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\06.Supermarket\obj\Debug\net8.0\06.Supermarket.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\06.Supermarket\obj\Debug\net8.0\06.Supermarket.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\06.Supermarket\obj\Debug\net8.0\06.Supermarket.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\06.Supermarket\obj\Debug\net8.0\refint\06.Supermarket.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\06.Supermarket\obj\Debug\net8.0\06.Supermarket.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\06.Supermarket\obj\Debug\net8.0\06.Supermarket.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\06.Supermarket\obj\Debug\net8.0\ref\06.Supermarket.dll
