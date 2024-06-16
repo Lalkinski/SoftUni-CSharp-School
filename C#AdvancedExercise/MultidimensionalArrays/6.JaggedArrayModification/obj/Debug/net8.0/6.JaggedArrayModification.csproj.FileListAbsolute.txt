@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\6.JaggedArrayModification\bin\Debug\net8.0\6.JaggedArrayModification.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\6.JaggedArrayModification\bin\Debug\net8.0\6.JaggedArrayModification.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\6.JaggedArrayModification\bin\Debug\net8.0\6.JaggedArrayModification.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\6.JaggedArrayModification\bin\Debug\net8.0\6.JaggedArrayModification.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\6.JaggedArrayModification\bin\Debug\net8.0\6.JaggedArrayModification.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\6.JaggedArrayModification\obj\Debug\net8.0\6.JaggedArrayModification.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\6.JaggedArrayModification\obj\Debug\net8.0\6.JaggedArrayModification.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\6.JaggedArrayModification\obj\Debug\net8.0\6.JaggedArrayModification.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\6.JaggedArrayModification\obj\Debug\net8.0\6.JaggedArrayModification.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\6.JaggedArrayModification\obj\Debug\net8.0\6.JaggedArrayModification.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\6.JaggedArrayModification\obj\Debug\net8.0\refint\6.JaggedArrayModification.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\6.JaggedArrayModification\obj\Debug\net8.0\6.JaggedArrayModification.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\6.JaggedArrayModification\obj\Debug\net8.0\6.JaggedArrayModification.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\6.JaggedArrayModification\obj\Debug\net8.0\ref\6.JaggedArrayModification.dll
