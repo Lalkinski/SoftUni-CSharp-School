@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\06.SplitMergeBinaryFiles\bin\Debug\net6.0\06.SplitMergeBinaryFiles.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\06.SplitMergeBinaryFiles\bin\Debug\net6.0\06.SplitMergeBinaryFiles.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\06.SplitMergeBinaryFiles\bin\Debug\net6.0\06.SplitMergeBinaryFiles.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\06.SplitMergeBinaryFiles\bin\Debug\net6.0\06.SplitMergeBinaryFiles.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\06.SplitMergeBinaryFiles\bin\Debug\net6.0\06.SplitMergeBinaryFiles.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\06.SplitMergeBinaryFiles\obj\Debug\net6.0\06.SplitMergeBinaryFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\06.SplitMergeBinaryFiles\obj\Debug\net6.0\06.SplitMergeBinaryFiles.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\06.SplitMergeBinaryFiles\obj\Debug\net6.0\06.SplitMergeBinaryFiles.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\06.SplitMergeBinaryFiles\obj\Debug\net6.0\06.SplitMergeBinaryFiles.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\06.SplitMergeBinaryFiles\obj\Debug\net6.0\06.SplitMergeBinaryFiles.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\06.SplitMergeBinaryFiles\obj\Debug\net6.0\refint\06.SplitMergeBinaryFiles.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\06.SplitMergeBinaryFiles\obj\Debug\net6.0\06.SplitMergeBinaryFiles.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\06.SplitMergeBinaryFiles\obj\Debug\net6.0\06.SplitMergeBinaryFiles.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\06.SplitMergeBinaryFiles\obj\Debug\net6.0\ref\06.SplitMergeBinaryFiles.dll
