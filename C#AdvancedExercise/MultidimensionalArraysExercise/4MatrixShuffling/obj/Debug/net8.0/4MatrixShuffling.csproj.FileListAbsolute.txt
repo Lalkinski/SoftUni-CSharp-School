@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\4MatrixShuffling\bin\Debug\net8.0\4MatrixShuffling.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\4MatrixShuffling\bin\Debug\net8.0\4MatrixShuffling.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\4MatrixShuffling\bin\Debug\net8.0\4MatrixShuffling.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\4MatrixShuffling\bin\Debug\net8.0\4MatrixShuffling.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\4MatrixShuffling\bin\Debug\net8.0\4MatrixShuffling.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\4MatrixShuffling\obj\Debug\net8.0\4MatrixShuffling.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\4MatrixShuffling\obj\Debug\net8.0\4MatrixShuffling.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\4MatrixShuffling\obj\Debug\net8.0\4MatrixShuffling.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\4MatrixShuffling\obj\Debug\net8.0\4MatrixShuffling.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\4MatrixShuffling\obj\Debug\net8.0\4MatrixShuffling.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\4MatrixShuffling\obj\Debug\net8.0\refint\4MatrixShuffling.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\4MatrixShuffling\obj\Debug\net8.0\4MatrixShuffling.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\4MatrixShuffling\obj\Debug\net8.0\4MatrixShuffling.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\4MatrixShuffling\obj\Debug\net8.0\ref\4MatrixShuffling.dll

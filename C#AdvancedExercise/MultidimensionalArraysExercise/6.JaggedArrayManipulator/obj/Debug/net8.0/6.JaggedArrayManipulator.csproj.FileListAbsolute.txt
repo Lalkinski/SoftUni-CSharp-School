@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\6.JaggedArrayManipulator\bin\Debug\net8.0\6.JaggedArrayManipulator.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\6.JaggedArrayManipulator\bin\Debug\net8.0\6.JaggedArrayManipulator.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\6.JaggedArrayManipulator\bin\Debug\net8.0\6.JaggedArrayManipulator.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\6.JaggedArrayManipulator\bin\Debug\net8.0\6.JaggedArrayManipulator.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\6.JaggedArrayManipulator\bin\Debug\net8.0\6.JaggedArrayManipulator.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\6.JaggedArrayManipulator\obj\Debug\net8.0\6.JaggedArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\6.JaggedArrayManipulator\obj\Debug\net8.0\6.JaggedArrayManipulator.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\6.JaggedArrayManipulator\obj\Debug\net8.0\6.JaggedArrayManipulator.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\6.JaggedArrayManipulator\obj\Debug\net8.0\6.JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\6.JaggedArrayManipulator\obj\Debug\net8.0\6.JaggedArrayManipulator.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\6.JaggedArrayManipulator\obj\Debug\net8.0\refint\6.JaggedArrayManipulator.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\6.JaggedArrayManipulator\obj\Debug\net8.0\6.JaggedArrayManipulator.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\6.JaggedArrayManipulator\obj\Debug\net8.0\6.JaggedArrayManipulator.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\MultidimensionalArrays\MultidimensionalArrays\6.JaggedArrayManipulator\obj\Debug\net8.0\ref\6.JaggedArrayManipulator.dll
