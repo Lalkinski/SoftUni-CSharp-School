@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\03.MaximumAndMinimumElement\bin\Debug\net8.0\03.MaximumAndMinimumElement.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\03.MaximumAndMinimumElement\bin\Debug\net8.0\03.MaximumAndMinimumElement.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\03.MaximumAndMinimumElement\bin\Debug\net8.0\03.MaximumAndMinimumElement.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\03.MaximumAndMinimumElement\bin\Debug\net8.0\03.MaximumAndMinimumElement.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\03.MaximumAndMinimumElement\bin\Debug\net8.0\03.MaximumAndMinimumElement.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\03.MaximumAndMinimumElement\obj\Debug\net8.0\03.MaximumAndMinimumElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\03.MaximumAndMinimumElement\obj\Debug\net8.0\03.MaximumAndMinimumElement.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\03.MaximumAndMinimumElement\obj\Debug\net8.0\03.MaximumAndMinimumElement.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\03.MaximumAndMinimumElement\obj\Debug\net8.0\03.MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\03.MaximumAndMinimumElement\obj\Debug\net8.0\03.MaximumAndMinimumElement.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\03.MaximumAndMinimumElement\obj\Debug\net8.0\refint\03.MaximumAndMinimumElement.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\03.MaximumAndMinimumElement\obj\Debug\net8.0\03.MaximumAndMinimumElement.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\03.MaximumAndMinimumElement\obj\Debug\net8.0\03.MaximumAndMinimumElement.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\StacksAndQueuesExercise\03.MaximumAndMinimumElement\obj\Debug\net8.0\ref\03.MaximumAndMinimumElement.dll
