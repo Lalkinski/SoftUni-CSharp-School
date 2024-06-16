@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\04.MergeTextFiles\bin\Debug\net6.0\04.MergeTextFiles.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\04.MergeTextFiles\bin\Debug\net6.0\04.MergeTextFiles.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\04.MergeTextFiles\bin\Debug\net6.0\04.MergeTextFiles.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\04.MergeTextFiles\bin\Debug\net6.0\04.MergeTextFiles.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\04.MergeTextFiles\bin\Debug\net6.0\04.MergeTextFiles.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\04.MergeTextFiles\obj\Debug\net6.0\04.MergeTextFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\04.MergeTextFiles\obj\Debug\net6.0\04.MergeTextFiles.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\04.MergeTextFiles\obj\Debug\net6.0\04.MergeTextFiles.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\04.MergeTextFiles\obj\Debug\net6.0\04.MergeTextFiles.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\04.MergeTextFiles\obj\Debug\net6.0\04.MergeTextFiles.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\04.MergeTextFiles\obj\Debug\net6.0\refint\04.MergeTextFiles.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\04.MergeTextFiles\obj\Debug\net6.0\04.MergeTextFiles.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\04.MergeTextFiles\obj\Debug\net6.0\04.MergeTextFiles.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\04.MergeTextFiles\obj\Debug\net6.0\ref\04.MergeTextFiles.dll

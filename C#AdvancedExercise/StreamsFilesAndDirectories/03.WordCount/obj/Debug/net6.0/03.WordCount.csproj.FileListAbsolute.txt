@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\03.WordCount\bin\Debug\net6.0\03.WordCount.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\03.WordCount\bin\Debug\net6.0\03.WordCount.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\03.WordCount\bin\Debug\net6.0\03.WordCount.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\03.WordCount\bin\Debug\net6.0\03.WordCount.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\03.WordCount\bin\Debug\net6.0\03.WordCount.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\03.WordCount\obj\Debug\net6.0\03.WordCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\03.WordCount\obj\Debug\net6.0\03.WordCount.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\03.WordCount\obj\Debug\net6.0\03.WordCount.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\03.WordCount\obj\Debug\net6.0\03.WordCount.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\03.WordCount\obj\Debug\net6.0\03.WordCount.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\03.WordCount\obj\Debug\net6.0\refint\03.WordCount.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\03.WordCount\obj\Debug\net6.0\03.WordCount.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\03.WordCount\obj\Debug\net6.0\03.WordCount.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\StreamsFilesAndDirectories\StreamsFilesAndDirectories\03.WordCount\obj\Debug\net6.0\ref\03.WordCount.dll
