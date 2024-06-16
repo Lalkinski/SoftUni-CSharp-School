@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\08.TrafficJam\bin\Debug\net8.0\08.TrafficJam.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\08.TrafficJam\bin\Debug\net8.0\08.TrafficJam.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\08.TrafficJam\bin\Debug\net8.0\08.TrafficJam.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\08.TrafficJam\bin\Debug\net8.0\08.TrafficJam.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\08.TrafficJam\bin\Debug\net8.0\08.TrafficJam.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\08.TrafficJam\obj\Debug\net8.0\08.TrafficJam.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\08.TrafficJam\obj\Debug\net8.0\08.TrafficJam.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\08.TrafficJam\obj\Debug\net8.0\08.TrafficJam.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\08.TrafficJam\obj\Debug\net8.0\08.TrafficJam.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\08.TrafficJam\obj\Debug\net8.0\08.TrafficJam.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\08.TrafficJam\obj\Debug\net8.0\refint\08.TrafficJam.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\08.TrafficJam\obj\Debug\net8.0\08.TrafficJam.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\08.TrafficJam\obj\Debug\net8.0\08.TrafficJam.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Stacks and Queues - Lab\StacksAndQueuesLab\08.TrafficJam\obj\Debug\net8.0\ref\08.TrafficJam.dll
