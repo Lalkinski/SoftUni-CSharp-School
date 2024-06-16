@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\07.ParkingLot\bin\Debug\net8.0\07.ParkingLot.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\07.ParkingLot\bin\Debug\net8.0\07.ParkingLot.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\07.ParkingLot\bin\Debug\net8.0\07.ParkingLot.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\07.ParkingLot\bin\Debug\net8.0\07.ParkingLot.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\07.ParkingLot\bin\Debug\net8.0\07.ParkingLot.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\07.ParkingLot\obj\Debug\net8.0\07.ParkingLot.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\07.ParkingLot\obj\Debug\net8.0\07.ParkingLot.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\07.ParkingLot\obj\Debug\net8.0\07.ParkingLot.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\07.ParkingLot\obj\Debug\net8.0\07.ParkingLot.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\07.ParkingLot\obj\Debug\net8.0\07.ParkingLot.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\07.ParkingLot\obj\Debug\net8.0\refint\07.ParkingLot.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\07.ParkingLot\obj\Debug\net8.0\07.ParkingLot.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\07.ParkingLot\obj\Debug\net8.0\07.ParkingLot.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\Sets and Dictionaries Advanced - Lab\SetsAndDictionariesAdvancedLab\07.ParkingLot\obj\Debug\net8.0\ref\07.ParkingLot.dll
