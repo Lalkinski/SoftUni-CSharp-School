@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\1. SumMatrixElements\bin\Debug\net8.0\1. SumMatrixElements.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\1. SumMatrixElements\bin\Debug\net8.0\1. SumMatrixElements.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\1. SumMatrixElements\bin\Debug\net8.0\1. SumMatrixElements.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\1. SumMatrixElements\bin\Debug\net8.0\1. SumMatrixElements.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\1. SumMatrixElements\bin\Debug\net8.0\1. SumMatrixElements.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\1. SumMatrixElements\obj\Debug\net8.0\1. SumMatrixElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\1. SumMatrixElements\obj\Debug\net8.0\1. SumMatrixElements.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\1. SumMatrixElements\obj\Debug\net8.0\1. SumMatrixElements.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\1. SumMatrixElements\obj\Debug\net8.0\1. SumMatrixElements.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\1. SumMatrixElements\obj\Debug\net8.0\1. SumMatrixElements.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\1. SumMatrixElements\obj\Debug\net8.0\refint\1. SumMatrixElements.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\1. SumMatrixElements\obj\Debug\net8.0\1. SumMatrixElements.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\1. SumMatrixElements\obj\Debug\net8.0\1. SumMatrixElements.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Lab\MultidimensionalArrays\1. SumMatrixElements\obj\Debug\net8.0\ref\1. SumMatrixElements.dll
