@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\IteratorsAndComparators\IteratorsAndComparators\03.Stack\bin\Debug\net6.0\03.Stack.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\IteratorsAndComparators\IteratorsAndComparators\03.Stack\bin\Debug\net6.0\03.Stack.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\IteratorsAndComparators\IteratorsAndComparators\03.Stack\bin\Debug\net6.0\03.Stack.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\IteratorsAndComparators\IteratorsAndComparators\03.Stack\bin\Debug\net6.0\03.Stack.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\IteratorsAndComparators\IteratorsAndComparators\03.Stack\bin\Debug\net6.0\03.Stack.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\IteratorsAndComparators\IteratorsAndComparators\03.Stack\obj\Debug\net6.0\03.Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\IteratorsAndComparators\IteratorsAndComparators\03.Stack\obj\Debug\net6.0\03.Stack.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\IteratorsAndComparators\IteratorsAndComparators\03.Stack\obj\Debug\net6.0\03.Stack.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\IteratorsAndComparators\IteratorsAndComparators\03.Stack\obj\Debug\net6.0\03.Stack.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\IteratorsAndComparators\IteratorsAndComparators\03.Stack\obj\Debug\net6.0\03.Stack.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\IteratorsAndComparators\IteratorsAndComparators\03.Stack\obj\Debug\net6.0\refint\03.Stack.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\IteratorsAndComparators\IteratorsAndComparators\03.Stack\obj\Debug\net6.0\03.Stack.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\IteratorsAndComparators\IteratorsAndComparators\03.Stack\obj\Debug\net6.0\03.Stack.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\IteratorsAndComparators\IteratorsAndComparators\03.Stack\obj\Debug\net6.0\ref\03.Stack.dll

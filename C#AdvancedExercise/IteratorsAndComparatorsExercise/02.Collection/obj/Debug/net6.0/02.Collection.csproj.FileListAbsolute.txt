@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\IteratorsAndComparators\IteratorsAndComparators\02.Collection\bin\Debug\net6.0\02.Collection.exe
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\IteratorsAndComparators\IteratorsAndComparators\02.Collection\bin\Debug\net6.0\02.Collection.deps.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\IteratorsAndComparators\IteratorsAndComparators\02.Collection\bin\Debug\net6.0\02.Collection.runtimeconfig.json
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\IteratorsAndComparators\IteratorsAndComparators\02.Collection\bin\Debug\net6.0\02.Collection.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\IteratorsAndComparators\IteratorsAndComparators\02.Collection\bin\Debug\net6.0\02.Collection.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\IteratorsAndComparators\IteratorsAndComparators\02.Collection\obj\Debug\net6.0\02.Collection.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\IteratorsAndComparators\IteratorsAndComparators\02.Collection\obj\Debug\net6.0\02.Collection.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\IteratorsAndComparators\IteratorsAndComparators\02.Collection\obj\Debug\net6.0\02.Collection.AssemblyInfo.cs
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\IteratorsAndComparators\IteratorsAndComparators\02.Collection\obj\Debug\net6.0\02.Collection.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\IteratorsAndComparators\IteratorsAndComparators\02.Collection\obj\Debug\net6.0\02.Collection.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\IteratorsAndComparators\IteratorsAndComparators\02.Collection\obj\Debug\net6.0\refint\02.Collection.dll
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\IteratorsAndComparators\IteratorsAndComparators\02.Collection\obj\Debug\net6.0\02.Collection.pdb
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\IteratorsAndComparators\IteratorsAndComparators\02.Collection\obj\Debug\net6.0\02.Collection.genruntimeconfig.cache
+D:\C# Programmer\SoftUni - Advanced\Advanced - Exercise\IteratorsAndComparators\IteratorsAndComparators\02.Collection\obj\Debug\net6.0\ref\02.Collection.dll
