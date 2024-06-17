@@ -1,0 +1,14 @@
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\Special Numbers\bin\Debug\net8.0\Special Numbers.exe
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\Special Numbers\bin\Debug\net8.0\Special Numbers.deps.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\Special Numbers\bin\Debug\net8.0\Special Numbers.runtimeconfig.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\Special Numbers\bin\Debug\net8.0\Special Numbers.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\Special Numbers\bin\Debug\net8.0\Special Numbers.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\Special Numbers\obj\Debug\net8.0\Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\Special Numbers\obj\Debug\net8.0\Special Numbers.AssemblyInfoInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\Special Numbers\obj\Debug\net8.0\Special Numbers.AssemblyInfo.cs
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\Special Numbers\obj\Debug\net8.0\Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\Special Numbers\obj\Debug\net8.0\Special Numbers.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\Special Numbers\obj\Debug\net8.0\refint\Special Numbers.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\Special Numbers\obj\Debug\net8.0\Special Numbers.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\Special Numbers\obj\Debug\net8.0\Special Numbers.genruntimeconfig.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\Special Numbers\obj\Debug\net8.0\ref\Special Numbers.dll

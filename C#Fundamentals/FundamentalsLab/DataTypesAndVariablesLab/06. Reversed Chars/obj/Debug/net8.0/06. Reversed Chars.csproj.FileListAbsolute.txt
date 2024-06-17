@@ -1,0 +1,14 @@
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\net8.0\06. Reversed Chars.exe
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\net8.0\06. Reversed Chars.deps.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\net8.0\06. Reversed Chars.runtimeconfig.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\net8.0\06. Reversed Chars.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\06. Reversed Chars\bin\Debug\net8.0\06. Reversed Chars.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\net8.0\06. Reversed Chars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\net8.0\06. Reversed Chars.AssemblyInfoInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\net8.0\06. Reversed Chars.AssemblyInfo.cs
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\net8.0\06. Reversed Chars.csproj.CoreCompileInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\net8.0\06. Reversed Chars.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\net8.0\refint\06. Reversed Chars.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\net8.0\06. Reversed Chars.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\net8.0\06. Reversed Chars.genruntimeconfig.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\06. Reversed Chars\obj\Debug\net8.0\ref\06. Reversed Chars.dll
