@@ -1,0 +1,14 @@
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\1.1. Student Information\bin\Debug\net6.0\1.1. Student Information.exe
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\1.1. Student Information\bin\Debug\net6.0\1.1. Student Information.deps.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\1.1. Student Information\bin\Debug\net6.0\1.1. Student Information.runtimeconfig.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\1.1. Student Information\bin\Debug\net6.0\1.1. Student Information.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\1.1. Student Information\bin\Debug\net6.0\1.1. Student Information.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\1.1. Student Information\obj\Debug\net6.0\1.1. Student Information.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\1.1. Student Information\obj\Debug\net6.0\1.1. Student Information.AssemblyInfoInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\1.1. Student Information\obj\Debug\net6.0\1.1. Student Information.AssemblyInfo.cs
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\1.1. Student Information\obj\Debug\net6.0\1.1. Student Information.csproj.CoreCompileInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\1.1. Student Information\obj\Debug\net6.0\1.1. Student Information.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\1.1. Student Information\obj\Debug\net6.0\refint\1.1. Student Information.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\1.1. Student Information\obj\Debug\net6.0\1.1. Student Information.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\1.1. Student Information\obj\Debug\net6.0\1.1. Student Information.genruntimeconfig.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\1.1. Student Information\obj\Debug\net6.0\ref\1.1. Student Information.dll

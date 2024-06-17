@@ -1,0 +1,14 @@
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\bin\Debug\net6.0\02. Passed.exe
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\bin\Debug\net6.0\02. Passed.deps.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\bin\Debug\net6.0\02. Passed.runtimeconfig.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\bin\Debug\net6.0\02. Passed.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\bin\Debug\net6.0\02. Passed.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net6.0\02. Passed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net6.0\02. Passed.AssemblyInfoInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net6.0\02. Passed.AssemblyInfo.cs
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net6.0\02. Passed.csproj.CoreCompileInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net6.0\02. Passed.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net6.0\refint\02. Passed.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net6.0\02. Passed.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net6.0\02. Passed.genruntimeconfig.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\02. Passed\obj\Debug\net6.0\ref\02. Passed.dll
