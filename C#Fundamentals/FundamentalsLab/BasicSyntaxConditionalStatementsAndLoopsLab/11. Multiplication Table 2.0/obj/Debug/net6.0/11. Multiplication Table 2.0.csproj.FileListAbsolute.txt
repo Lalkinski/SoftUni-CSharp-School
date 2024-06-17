@@ -1,0 +1,14 @@
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\11. Multiplication Table 2.0\bin\Debug\net6.0\11. Multiplication Table 2.0.exe
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\11. Multiplication Table 2.0\bin\Debug\net6.0\11. Multiplication Table 2.0.deps.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\11. Multiplication Table 2.0\bin\Debug\net6.0\11. Multiplication Table 2.0.runtimeconfig.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\11. Multiplication Table 2.0\bin\Debug\net6.0\11. Multiplication Table 2.0.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\11. Multiplication Table 2.0\bin\Debug\net6.0\11. Multiplication Table 2.0.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\11. Multiplication Table 2.0\obj\Debug\net6.0\11. Multiplication Table 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\11. Multiplication Table 2.0\obj\Debug\net6.0\11. Multiplication Table 2.0.AssemblyInfoInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\11. Multiplication Table 2.0\obj\Debug\net6.0\11. Multiplication Table 2.0.AssemblyInfo.cs
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\11. Multiplication Table 2.0\obj\Debug\net6.0\11. Multiplication Table 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\11. Multiplication Table 2.0\obj\Debug\net6.0\11. Multiplication Table 2.0.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\11. Multiplication Table 2.0\obj\Debug\net6.0\refint\11. Multiplication Table 2.0.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\11. Multiplication Table 2.0\obj\Debug\net6.0\11. Multiplication Table 2.0.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\11. Multiplication Table 2.0\obj\Debug\net6.0\11. Multiplication Table 2.0.genruntimeconfig.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Basic Syntax, Conditional Statements and Loops - Lab\11. Multiplication Table 2.0\obj\Debug\net6.0\ref\11. Multiplication Table 2.0.dll
