@@ -1,0 +1,14 @@
+E:\Method - lab\03. Calculations\bin\Debug\net8.0\03. Calculations.exe
+E:\Method - lab\03. Calculations\bin\Debug\net8.0\03. Calculations.deps.json
+E:\Method - lab\03. Calculations\bin\Debug\net8.0\03. Calculations.runtimeconfig.json
+E:\Method - lab\03. Calculations\bin\Debug\net8.0\03. Calculations.dll
+E:\Method - lab\03. Calculations\bin\Debug\net8.0\03. Calculations.pdb
+E:\Method - lab\03. Calculations\obj\Debug\net8.0\03. Calculations.GeneratedMSBuildEditorConfig.editorconfig
+E:\Method - lab\03. Calculations\obj\Debug\net8.0\03. Calculations.AssemblyInfoInputs.cache
+E:\Method - lab\03. Calculations\obj\Debug\net8.0\03. Calculations.AssemblyInfo.cs
+E:\Method - lab\03. Calculations\obj\Debug\net8.0\03. Calculations.csproj.CoreCompileInputs.cache
+E:\Method - lab\03. Calculations\obj\Debug\net8.0\03. Calculations.dll
+E:\Method - lab\03. Calculations\obj\Debug\net8.0\refint\03. Calculations.dll
+E:\Method - lab\03. Calculations\obj\Debug\net8.0\03. Calculations.pdb
+E:\Method - lab\03. Calculations\obj\Debug\net8.0\03. Calculations.genruntimeconfig.cache
+E:\Method - lab\03. Calculations\obj\Debug\net8.0\ref\03. Calculations.dll

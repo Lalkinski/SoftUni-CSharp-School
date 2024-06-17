@@ -1,0 +1,14 @@
+E:\Method - lab\2. Grades\bin\Debug\net8.0\2. Grades.exe
+E:\Method - lab\2. Grades\bin\Debug\net8.0\2. Grades.deps.json
+E:\Method - lab\2. Grades\bin\Debug\net8.0\2. Grades.runtimeconfig.json
+E:\Method - lab\2. Grades\bin\Debug\net8.0\2. Grades.dll
+E:\Method - lab\2. Grades\bin\Debug\net8.0\2. Grades.pdb
+E:\Method - lab\2. Grades\obj\Debug\net8.0\2. Grades.GeneratedMSBuildEditorConfig.editorconfig
+E:\Method - lab\2. Grades\obj\Debug\net8.0\2. Grades.AssemblyInfoInputs.cache
+E:\Method - lab\2. Grades\obj\Debug\net8.0\2. Grades.AssemblyInfo.cs
+E:\Method - lab\2. Grades\obj\Debug\net8.0\2. Grades.csproj.CoreCompileInputs.cache
+E:\Method - lab\2. Grades\obj\Debug\net8.0\2. Grades.dll
+E:\Method - lab\2. Grades\obj\Debug\net8.0\refint\2. Grades.dll
+E:\Method - lab\2. Grades\obj\Debug\net8.0\2. Grades.pdb
+E:\Method - lab\2. Grades\obj\Debug\net8.0\2. Grades.genruntimeconfig.cache
+E:\Method - lab\2. Grades\obj\Debug\net8.0\ref\2. Grades.dll
