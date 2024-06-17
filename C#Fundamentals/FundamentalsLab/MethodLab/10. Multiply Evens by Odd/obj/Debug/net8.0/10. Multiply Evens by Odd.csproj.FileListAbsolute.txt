@@ -1,0 +1,14 @@
+D:\Method - lab\10. Multiply Evens by Odd\obj\Debug\net8.0\10. Multiply Evens by Odd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Method - lab\10. Multiply Evens by Odd\obj\Debug\net8.0\10. Multiply Evens by Odd.AssemblyInfoInputs.cache
+D:\Method - lab\10. Multiply Evens by Odd\obj\Debug\net8.0\10. Multiply Evens by Odd.AssemblyInfo.cs
+D:\Method - lab\10. Multiply Evens by Odd\obj\Debug\net8.0\10. Multiply Evens by Odd.csproj.CoreCompileInputs.cache
+D:\Method - lab\10. Multiply Evens by Odd\bin\Debug\net8.0\10. Multiply Evens by Odd.exe
+D:\Method - lab\10. Multiply Evens by Odd\bin\Debug\net8.0\10. Multiply Evens by Odd.deps.json
+D:\Method - lab\10. Multiply Evens by Odd\bin\Debug\net8.0\10. Multiply Evens by Odd.runtimeconfig.json
+D:\Method - lab\10. Multiply Evens by Odd\bin\Debug\net8.0\10. Multiply Evens by Odd.dll
+D:\Method - lab\10. Multiply Evens by Odd\bin\Debug\net8.0\10. Multiply Evens by Odd.pdb
+D:\Method - lab\10. Multiply Evens by Odd\obj\Debug\net8.0\10. Multiply Evens by Odd.dll
+D:\Method - lab\10. Multiply Evens by Odd\obj\Debug\net8.0\refint\10. Multiply Evens by Odd.dll
+D:\Method - lab\10. Multiply Evens by Odd\obj\Debug\net8.0\10. Multiply Evens by Odd.pdb
+D:\Method - lab\10. Multiply Evens by Odd\obj\Debug\net8.0\10. Multiply Evens by Odd.genruntimeconfig.cache
+D:\Method - lab\10. Multiply Evens by Odd\obj\Debug\net8.0\ref\10. Multiply Evens by Odd.dll
