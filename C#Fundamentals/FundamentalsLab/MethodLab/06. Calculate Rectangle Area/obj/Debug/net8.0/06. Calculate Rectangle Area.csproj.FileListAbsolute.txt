@@ -1,0 +1,14 @@
+D:\Method - lab\06. Calculate Rectangle Area\bin\Debug\net8.0\06. Calculate Rectangle Area.exe
+D:\Method - lab\06. Calculate Rectangle Area\bin\Debug\net8.0\06. Calculate Rectangle Area.deps.json
+D:\Method - lab\06. Calculate Rectangle Area\bin\Debug\net8.0\06. Calculate Rectangle Area.runtimeconfig.json
+D:\Method - lab\06. Calculate Rectangle Area\bin\Debug\net8.0\06. Calculate Rectangle Area.dll
+D:\Method - lab\06. Calculate Rectangle Area\bin\Debug\net8.0\06. Calculate Rectangle Area.pdb
+D:\Method - lab\06. Calculate Rectangle Area\obj\Debug\net8.0\06. Calculate Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+D:\Method - lab\06. Calculate Rectangle Area\obj\Debug\net8.0\06. Calculate Rectangle Area.AssemblyInfoInputs.cache
+D:\Method - lab\06. Calculate Rectangle Area\obj\Debug\net8.0\06. Calculate Rectangle Area.AssemblyInfo.cs
+D:\Method - lab\06. Calculate Rectangle Area\obj\Debug\net8.0\06. Calculate Rectangle Area.csproj.CoreCompileInputs.cache
+D:\Method - lab\06. Calculate Rectangle Area\obj\Debug\net8.0\06. Calculate Rectangle Area.dll
+D:\Method - lab\06. Calculate Rectangle Area\obj\Debug\net8.0\refint\06. Calculate Rectangle Area.dll
+D:\Method - lab\06. Calculate Rectangle Area\obj\Debug\net8.0\06. Calculate Rectangle Area.pdb
+D:\Method - lab\06. Calculate Rectangle Area\obj\Debug\net8.0\06. Calculate Rectangle Area.genruntimeconfig.cache
+D:\Method - lab\06. Calculate Rectangle Area\obj\Debug\net8.0\ref\06. Calculate Rectangle Area.dll

@@ -1,0 +1,14 @@
+D:\Method - lab\7. Repeat String\bin\Debug\net8.0\7. Repeat String.exe
+D:\Method - lab\7. Repeat String\bin\Debug\net8.0\7. Repeat String.deps.json
+D:\Method - lab\7. Repeat String\bin\Debug\net8.0\7. Repeat String.runtimeconfig.json
+D:\Method - lab\7. Repeat String\bin\Debug\net8.0\7. Repeat String.dll
+D:\Method - lab\7. Repeat String\bin\Debug\net8.0\7. Repeat String.pdb
+D:\Method - lab\7. Repeat String\obj\Debug\net8.0\7. Repeat String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Method - lab\7. Repeat String\obj\Debug\net8.0\7. Repeat String.AssemblyInfoInputs.cache
+D:\Method - lab\7. Repeat String\obj\Debug\net8.0\7. Repeat String.AssemblyInfo.cs
+D:\Method - lab\7. Repeat String\obj\Debug\net8.0\7. Repeat String.csproj.CoreCompileInputs.cache
+D:\Method - lab\7. Repeat String\obj\Debug\net8.0\7. Repeat String.dll
+D:\Method - lab\7. Repeat String\obj\Debug\net8.0\refint\7. Repeat String.dll
+D:\Method - lab\7. Repeat String\obj\Debug\net8.0\7. Repeat String.pdb
+D:\Method - lab\7. Repeat String\obj\Debug\net8.0\7. Repeat String.genruntimeconfig.cache
+D:\Method - lab\7. Repeat String\obj\Debug\net8.0\ref\7. Repeat String.dll

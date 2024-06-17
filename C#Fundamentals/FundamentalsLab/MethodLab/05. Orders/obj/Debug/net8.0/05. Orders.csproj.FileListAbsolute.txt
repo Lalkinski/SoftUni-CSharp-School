@@ -1,0 +1,14 @@
+E:\Method - lab\05. Orders\bin\Debug\net8.0\05. Orders.exe
+E:\Method - lab\05. Orders\bin\Debug\net8.0\05. Orders.deps.json
+E:\Method - lab\05. Orders\bin\Debug\net8.0\05. Orders.runtimeconfig.json
+E:\Method - lab\05. Orders\bin\Debug\net8.0\05. Orders.dll
+E:\Method - lab\05. Orders\bin\Debug\net8.0\05. Orders.pdb
+E:\Method - lab\05. Orders\obj\Debug\net8.0\05. Orders.GeneratedMSBuildEditorConfig.editorconfig
+E:\Method - lab\05. Orders\obj\Debug\net8.0\05. Orders.AssemblyInfoInputs.cache
+E:\Method - lab\05. Orders\obj\Debug\net8.0\05. Orders.AssemblyInfo.cs
+E:\Method - lab\05. Orders\obj\Debug\net8.0\05. Orders.csproj.CoreCompileInputs.cache
+E:\Method - lab\05. Orders\obj\Debug\net8.0\05. Orders.dll
+E:\Method - lab\05. Orders\obj\Debug\net8.0\refint\05. Orders.dll
+E:\Method - lab\05. Orders\obj\Debug\net8.0\05. Orders.pdb
+E:\Method - lab\05. Orders\obj\Debug\net8.0\05. Orders.genruntimeconfig.cache
+E:\Method - lab\05. Orders\obj\Debug\net8.0\ref\05. Orders.dll
