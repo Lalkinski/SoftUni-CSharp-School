@@ -1,0 +1,14 @@
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Lists - Lab\4. List of Products\bin\Debug\net8.0\4. List of Products.exe
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Lists - Lab\4. List of Products\bin\Debug\net8.0\4. List of Products.deps.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Lists - Lab\4. List of Products\bin\Debug\net8.0\4. List of Products.runtimeconfig.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Lists - Lab\4. List of Products\bin\Debug\net8.0\4. List of Products.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Lists - Lab\4. List of Products\bin\Debug\net8.0\4. List of Products.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Lists - Lab\4. List of Products\obj\Debug\net8.0\4. List of Products.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Lists - Lab\4. List of Products\obj\Debug\net8.0\4. List of Products.AssemblyInfoInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Lists - Lab\4. List of Products\obj\Debug\net8.0\4. List of Products.AssemblyInfo.cs
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Lists - Lab\4. List of Products\obj\Debug\net8.0\4. List of Products.csproj.CoreCompileInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Lists - Lab\4. List of Products\obj\Debug\net8.0\4. List of Products.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Lists - Lab\4. List of Products\obj\Debug\net8.0\refint\4. List of Products.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Lists - Lab\4. List of Products\obj\Debug\net8.0\4. List of Products.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Lists - Lab\4. List of Products\obj\Debug\net8.0\4. List of Products.genruntimeconfig.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Lists - Lab\4. List of Products\obj\Debug\net8.0\ref\4. List of Products.dll
