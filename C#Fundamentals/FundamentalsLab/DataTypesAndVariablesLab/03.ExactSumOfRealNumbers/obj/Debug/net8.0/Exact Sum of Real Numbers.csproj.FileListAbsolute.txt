@@ -1,0 +1,14 @@
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\Exact Sum of Real Numbers\bin\Debug\net8.0\Exact Sum of Real Numbers.exe
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\Exact Sum of Real Numbers\bin\Debug\net8.0\Exact Sum of Real Numbers.deps.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\Exact Sum of Real Numbers\bin\Debug\net8.0\Exact Sum of Real Numbers.runtimeconfig.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\Exact Sum of Real Numbers\bin\Debug\net8.0\Exact Sum of Real Numbers.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\Exact Sum of Real Numbers\bin\Debug\net8.0\Exact Sum of Real Numbers.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\Exact Sum of Real Numbers\obj\Debug\net8.0\Exact Sum of Real Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\Exact Sum of Real Numbers\obj\Debug\net8.0\Exact Sum of Real Numbers.AssemblyInfoInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\Exact Sum of Real Numbers\obj\Debug\net8.0\Exact Sum of Real Numbers.AssemblyInfo.cs
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\Exact Sum of Real Numbers\obj\Debug\net8.0\Exact Sum of Real Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\Exact Sum of Real Numbers\obj\Debug\net8.0\Exact Sum of Real Numbers.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\Exact Sum of Real Numbers\obj\Debug\net8.0\refint\Exact Sum of Real Numbers.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\Exact Sum of Real Numbers\obj\Debug\net8.0\Exact Sum of Real Numbers.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\Exact Sum of Real Numbers\obj\Debug\net8.0\Exact Sum of Real Numbers.genruntimeconfig.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\Exact Sum of Real Numbers\obj\Debug\net8.0\ref\Exact Sum of Real Numbers.dll
