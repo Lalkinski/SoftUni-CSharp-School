@@ -1,0 +1,14 @@
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\3. Word\bin\Debug\net8.0\3. Word.exe
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\3. Word\bin\Debug\net8.0\3. Word.deps.json
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\3. Word\bin\Debug\net8.0\3. Word.runtimeconfig.json
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\3. Word\bin\Debug\net8.0\3. Word.dll
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\3. Word\bin\Debug\net8.0\3. Word.pdb
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\3. Word\obj\Debug\net8.0\3. Word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\3. Word\obj\Debug\net8.0\3. Word.AssemblyInfoInputs.cache
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\3. Word\obj\Debug\net8.0\3. Word.AssemblyInfo.cs
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\3. Word\obj\Debug\net8.0\3. Word.csproj.CoreCompileInputs.cache
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\3. Word\obj\Debug\net8.0\3. Word.dll
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\3. Word\obj\Debug\net8.0\refint\3. Word.dll
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\3. Word\obj\Debug\net8.0\3. Word.pdb
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\3. Word\obj\Debug\net8.0\3. Word.genruntimeconfig.cache
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ\3. Word\obj\Debug\net8.0\ref\3. Word.dll
