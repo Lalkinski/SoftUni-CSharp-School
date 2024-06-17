@@ -1,0 +1,14 @@
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net8.0\10. Lower or Upper.exe
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net8.0\10. Lower or Upper.deps.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net8.0\10. Lower or Upper.runtimeconfig.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net8.0\10. Lower or Upper.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\10. Lower or Upper\bin\Debug\net8.0\10. Lower or Upper.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net8.0\10. Lower or Upper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net8.0\10. Lower or Upper.AssemblyInfoInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net8.0\10. Lower or Upper.AssemblyInfo.cs
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net8.0\10. Lower or Upper.csproj.CoreCompileInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net8.0\10. Lower or Upper.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net8.0\refint\10. Lower or Upper.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net8.0\10. Lower or Upper.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net8.0\10. Lower or Upper.genruntimeconfig.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Data Types and Variables - Lab\10. Lower or Upper\obj\Debug\net8.0\ref\10. Lower or Upper.dll
