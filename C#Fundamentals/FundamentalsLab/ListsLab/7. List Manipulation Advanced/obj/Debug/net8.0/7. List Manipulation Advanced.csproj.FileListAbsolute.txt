@@ -1,0 +1,14 @@
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Lists - Lab\7. List Manipulation Advanced\bin\Debug\net8.0\7. List Manipulation Advanced.exe
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Lists - Lab\7. List Manipulation Advanced\bin\Debug\net8.0\7. List Manipulation Advanced.deps.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Lists - Lab\7. List Manipulation Advanced\bin\Debug\net8.0\7. List Manipulation Advanced.runtimeconfig.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Lists - Lab\7. List Manipulation Advanced\bin\Debug\net8.0\7. List Manipulation Advanced.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Lists - Lab\7. List Manipulation Advanced\bin\Debug\net8.0\7. List Manipulation Advanced.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Lists - Lab\7. List Manipulation Advanced\obj\Debug\net8.0\7. List Manipulation Advanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Lists - Lab\7. List Manipulation Advanced\obj\Debug\net8.0\7. List Manipulation Advanced.AssemblyInfoInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Lists - Lab\7. List Manipulation Advanced\obj\Debug\net8.0\7. List Manipulation Advanced.AssemblyInfo.cs
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Lists - Lab\7. List Manipulation Advanced\obj\Debug\net8.0\7. List Manipulation Advanced.csproj.CoreCompileInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Lists - Lab\7. List Manipulation Advanced\obj\Debug\net8.0\7. List Manipulation Advanced.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Lists - Lab\7. List Manipulation Advanced\obj\Debug\net8.0\refint\7. List Manipulation Advanced.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Lists - Lab\7. List Manipulation Advanced\obj\Debug\net8.0\7. List Manipulation Advanced.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Lists - Lab\7. List Manipulation Advanced\obj\Debug\net8.0\7. List Manipulation Advanced.genruntimeconfig.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - LAB\Lists - Lab\7. List Manipulation Advanced\obj\Debug\net8.0\ref\7. List Manipulation Advanced.dll
