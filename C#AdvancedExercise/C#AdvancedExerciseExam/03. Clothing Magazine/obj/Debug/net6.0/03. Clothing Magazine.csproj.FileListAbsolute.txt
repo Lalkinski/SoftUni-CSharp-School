@@ -1,0 +1,14 @@
+C:\Users\Lalkinski\Desktop\03.ClothingMagazine\03. Clothing Magazine\bin\Debug\net6.0\03. Clothing Magazine.exe
+C:\Users\Lalkinski\Desktop\03.ClothingMagazine\03. Clothing Magazine\bin\Debug\net6.0\03. Clothing Magazine.deps.json
+C:\Users\Lalkinski\Desktop\03.ClothingMagazine\03. Clothing Magazine\bin\Debug\net6.0\03. Clothing Magazine.runtimeconfig.json
+C:\Users\Lalkinski\Desktop\03.ClothingMagazine\03. Clothing Magazine\bin\Debug\net6.0\03. Clothing Magazine.dll
+C:\Users\Lalkinski\Desktop\03.ClothingMagazine\03. Clothing Magazine\bin\Debug\net6.0\03. Clothing Magazine.pdb
+C:\Users\Lalkinski\Desktop\03.ClothingMagazine\03. Clothing Magazine\obj\Debug\net6.0\03. Clothing Magazine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lalkinski\Desktop\03.ClothingMagazine\03. Clothing Magazine\obj\Debug\net6.0\03. Clothing Magazine.AssemblyInfoInputs.cache
+C:\Users\Lalkinski\Desktop\03.ClothingMagazine\03. Clothing Magazine\obj\Debug\net6.0\03. Clothing Magazine.AssemblyInfo.cs
+C:\Users\Lalkinski\Desktop\03.ClothingMagazine\03. Clothing Magazine\obj\Debug\net6.0\03. Clothing Magazine.csproj.CoreCompileInputs.cache
+C:\Users\Lalkinski\Desktop\03.ClothingMagazine\03. Clothing Magazine\obj\Debug\net6.0\03. Clothing Magazine.dll
+C:\Users\Lalkinski\Desktop\03.ClothingMagazine\03. Clothing Magazine\obj\Debug\net6.0\refint\03. Clothing Magazine.dll
+C:\Users\Lalkinski\Desktop\03.ClothingMagazine\03. Clothing Magazine\obj\Debug\net6.0\03. Clothing Magazine.pdb
+C:\Users\Lalkinski\Desktop\03.ClothingMagazine\03. Clothing Magazine\obj\Debug\net6.0\03. Clothing Magazine.genruntimeconfig.cache
+C:\Users\Lalkinski\Desktop\03.ClothingMagazine\03. Clothing Magazine\obj\Debug\net6.0\ref\03. Clothing Magazine.dll
