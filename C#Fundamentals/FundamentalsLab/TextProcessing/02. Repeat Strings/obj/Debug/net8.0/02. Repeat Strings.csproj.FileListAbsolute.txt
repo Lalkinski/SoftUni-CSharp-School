@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\02. Repeat Strings\bin\Debug\net8.0\02. Repeat Strings.exe
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\02. Repeat Strings\bin\Debug\net8.0\02. Repeat Strings.deps.json
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\02. Repeat Strings\bin\Debug\net8.0\02. Repeat Strings.runtimeconfig.json
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\02. Repeat Strings\bin\Debug\net8.0\02. Repeat Strings.dll
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\02. Repeat Strings\bin\Debug\net8.0\02. Repeat Strings.pdb
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\02. Repeat Strings\obj\Debug\net8.0\02. Repeat Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\02. Repeat Strings\obj\Debug\net8.0\02. Repeat Strings.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\02. Repeat Strings\obj\Debug\net8.0\02. Repeat Strings.AssemblyInfo.cs
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\02. Repeat Strings\obj\Debug\net8.0\02. Repeat Strings.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\02. Repeat Strings\obj\Debug\net8.0\02. Repeat Strings.dll
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\02. Repeat Strings\obj\Debug\net8.0\refint\02. Repeat Strings.dll
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\02. Repeat Strings\obj\Debug\net8.0\02. Repeat Strings.pdb
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\02. Repeat Strings\obj\Debug\net8.0\02. Repeat Strings.genruntimeconfig.cache
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\02. Repeat Strings\obj\Debug\net8.0\ref\02. Repeat Strings.dll

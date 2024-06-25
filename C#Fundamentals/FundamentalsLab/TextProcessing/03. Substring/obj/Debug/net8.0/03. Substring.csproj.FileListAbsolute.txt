@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\03. Substring\bin\Debug\net8.0\03. Substring.exe
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\03. Substring\bin\Debug\net8.0\03. Substring.deps.json
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\03. Substring\bin\Debug\net8.0\03. Substring.runtimeconfig.json
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\03. Substring\bin\Debug\net8.0\03. Substring.dll
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\03. Substring\bin\Debug\net8.0\03. Substring.pdb
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\03. Substring\obj\Debug\net8.0\03. Substring.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\03. Substring\obj\Debug\net8.0\03. Substring.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\03. Substring\obj\Debug\net8.0\03. Substring.AssemblyInfo.cs
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\03. Substring\obj\Debug\net8.0\03. Substring.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\03. Substring\obj\Debug\net8.0\03. Substring.dll
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\03. Substring\obj\Debug\net8.0\refint\03. Substring.dll
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\03. Substring\obj\Debug\net8.0\03. Substring.pdb
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\03. Substring\obj\Debug\net8.0\03. Substring.genruntimeconfig.cache
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\03. Substring\obj\Debug\net8.0\ref\03. Substring.dll
