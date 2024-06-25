@@ -1,0 +1,14 @@
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Associative Arrays - Exercise\Associative Arrays\02. A Miner Task\bin\Debug\net8.0\02. A Miner Task.exe
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Associative Arrays - Exercise\Associative Arrays\02. A Miner Task\bin\Debug\net8.0\02. A Miner Task.deps.json
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Associative Arrays - Exercise\Associative Arrays\02. A Miner Task\bin\Debug\net8.0\02. A Miner Task.runtimeconfig.json
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Associative Arrays - Exercise\Associative Arrays\02. A Miner Task\bin\Debug\net8.0\02. A Miner Task.dll
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Associative Arrays - Exercise\Associative Arrays\02. A Miner Task\bin\Debug\net8.0\02. A Miner Task.pdb
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Associative Arrays - Exercise\Associative Arrays\02. A Miner Task\obj\Debug\net8.0\02. A Miner Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Associative Arrays - Exercise\Associative Arrays\02. A Miner Task\obj\Debug\net8.0\02. A Miner Task.AssemblyInfoInputs.cache
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Associative Arrays - Exercise\Associative Arrays\02. A Miner Task\obj\Debug\net8.0\02. A Miner Task.AssemblyInfo.cs
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Associative Arrays - Exercise\Associative Arrays\02. A Miner Task\obj\Debug\net8.0\02. A Miner Task.csproj.CoreCompileInputs.cache
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Associative Arrays - Exercise\Associative Arrays\02. A Miner Task\obj\Debug\net8.0\02. A Miner Task.dll
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Associative Arrays - Exercise\Associative Arrays\02. A Miner Task\obj\Debug\net8.0\refint\02. A Miner Task.dll
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Associative Arrays - Exercise\Associative Arrays\02. A Miner Task\obj\Debug\net8.0\02. A Miner Task.pdb
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Associative Arrays - Exercise\Associative Arrays\02. A Miner Task\obj\Debug\net8.0\02. A Miner Task.genruntimeconfig.cache
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Associative Arrays - Exercise\Associative Arrays\02. A Miner Task\obj\Debug\net8.0\ref\02. A Miner Task.dll
