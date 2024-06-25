@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Regular Expressions - Lab\RegularExpressions\02.MatchPhoneNumber\bin\Debug\net8.0\02.MatchPhoneNumber.exe
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Regular Expressions - Lab\RegularExpressions\02.MatchPhoneNumber\bin\Debug\net8.0\02.MatchPhoneNumber.deps.json
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Regular Expressions - Lab\RegularExpressions\02.MatchPhoneNumber\bin\Debug\net8.0\02.MatchPhoneNumber.runtimeconfig.json
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Regular Expressions - Lab\RegularExpressions\02.MatchPhoneNumber\bin\Debug\net8.0\02.MatchPhoneNumber.dll
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Regular Expressions - Lab\RegularExpressions\02.MatchPhoneNumber\bin\Debug\net8.0\02.MatchPhoneNumber.pdb
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Regular Expressions - Lab\RegularExpressions\02.MatchPhoneNumber\obj\Debug\net8.0\02.MatchPhoneNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Regular Expressions - Lab\RegularExpressions\02.MatchPhoneNumber\obj\Debug\net8.0\02.MatchPhoneNumber.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Regular Expressions - Lab\RegularExpressions\02.MatchPhoneNumber\obj\Debug\net8.0\02.MatchPhoneNumber.AssemblyInfo.cs
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Regular Expressions - Lab\RegularExpressions\02.MatchPhoneNumber\obj\Debug\net8.0\02.MatchPhoneNumber.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Regular Expressions - Lab\RegularExpressions\02.MatchPhoneNumber\obj\Debug\net8.0\02.MatchPhoneNumber.dll
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Regular Expressions - Lab\RegularExpressions\02.MatchPhoneNumber\obj\Debug\net8.0\refint\02.MatchPhoneNumber.dll
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Regular Expressions - Lab\RegularExpressions\02.MatchPhoneNumber\obj\Debug\net8.0\02.MatchPhoneNumber.pdb
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Regular Expressions - Lab\RegularExpressions\02.MatchPhoneNumber\obj\Debug\net8.0\02.MatchPhoneNumber.genruntimeconfig.cache
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Regular Expressions - Lab\RegularExpressions\02.MatchPhoneNumber\obj\Debug\net8.0\ref\02.MatchPhoneNumber.dll

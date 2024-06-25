@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Regular Expressions - Lab\RegularExpressions\01.MatchFullName\bin\Debug\net8.0\01.MatchFullName.exe
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Regular Expressions - Lab\RegularExpressions\01.MatchFullName\bin\Debug\net8.0\01.MatchFullName.deps.json
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Regular Expressions - Lab\RegularExpressions\01.MatchFullName\bin\Debug\net8.0\01.MatchFullName.runtimeconfig.json
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Regular Expressions - Lab\RegularExpressions\01.MatchFullName\bin\Debug\net8.0\01.MatchFullName.dll
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Regular Expressions - Lab\RegularExpressions\01.MatchFullName\bin\Debug\net8.0\01.MatchFullName.pdb
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Regular Expressions - Lab\RegularExpressions\01.MatchFullName\obj\Debug\net8.0\01.MatchFullName.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Regular Expressions - Lab\RegularExpressions\01.MatchFullName\obj\Debug\net8.0\01.MatchFullName.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Regular Expressions - Lab\RegularExpressions\01.MatchFullName\obj\Debug\net8.0\01.MatchFullName.AssemblyInfo.cs
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Regular Expressions - Lab\RegularExpressions\01.MatchFullName\obj\Debug\net8.0\01.MatchFullName.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Regular Expressions - Lab\RegularExpressions\01.MatchFullName\obj\Debug\net8.0\01.MatchFullName.dll
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Regular Expressions - Lab\RegularExpressions\01.MatchFullName\obj\Debug\net8.0\refint\01.MatchFullName.dll
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Regular Expressions - Lab\RegularExpressions\01.MatchFullName\obj\Debug\net8.0\01.MatchFullName.pdb
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Regular Expressions - Lab\RegularExpressions\01.MatchFullName\obj\Debug\net8.0\01.MatchFullName.genruntimeconfig.cache
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Regular Expressions - Lab\RegularExpressions\01.MatchFullName\obj\Debug\net8.0\ref\01.MatchFullName.dll
