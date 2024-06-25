@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\04. Text Filter\bin\Debug\net8.0\04. Text Filter.exe
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\04. Text Filter\bin\Debug\net8.0\04. Text Filter.deps.json
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\04. Text Filter\bin\Debug\net8.0\04. Text Filter.runtimeconfig.json
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\04. Text Filter\bin\Debug\net8.0\04. Text Filter.dll
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\04. Text Filter\bin\Debug\net8.0\04. Text Filter.pdb
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\04. Text Filter\obj\Debug\net8.0\04. Text Filter.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\04. Text Filter\obj\Debug\net8.0\04. Text Filter.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\04. Text Filter\obj\Debug\net8.0\04. Text Filter.AssemblyInfo.cs
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\04. Text Filter\obj\Debug\net8.0\04. Text Filter.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\04. Text Filter\obj\Debug\net8.0\04. Text Filter.dll
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\04. Text Filter\obj\Debug\net8.0\refint\04. Text Filter.dll
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\04. Text Filter\obj\Debug\net8.0\04. Text Filter.pdb
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\04. Text Filter\obj\Debug\net8.0\04. Text Filter.genruntimeconfig.cache
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - LAB\Text Processing - Lab\04. Text Filter\obj\Debug\net8.0\ref\04. Text Filter.dll
