@@ -1,0 +1,14 @@
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\net8.0\07. Water Overflow.exe
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\net8.0\07. Water Overflow.deps.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\net8.0\07. Water Overflow.runtimeconfig.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\net8.0\07. Water Overflow.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Data Types and Variables - Exercise\07. Water Overflow\bin\Debug\net8.0\07. Water Overflow.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\net8.0\07. Water Overflow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\net8.0\07. Water Overflow.AssemblyInfoInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\net8.0\07. Water Overflow.AssemblyInfo.cs
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\net8.0\07. Water Overflow.csproj.CoreCompileInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\net8.0\07. Water Overflow.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\net8.0\refint\07. Water Overflow.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\net8.0\07. Water Overflow.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\net8.0\07. Water Overflow.genruntimeconfig.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Data Types and Variables - Exercise\07. Water Overflow\obj\Debug\net8.0\ref\07. Water Overflow.dll
