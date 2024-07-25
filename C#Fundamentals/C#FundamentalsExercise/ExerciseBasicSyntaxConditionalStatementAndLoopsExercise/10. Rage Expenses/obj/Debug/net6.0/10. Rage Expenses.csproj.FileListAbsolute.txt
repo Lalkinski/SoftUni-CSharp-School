@@ -1,0 +1,14 @@
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\10. Rage Expenses\bin\Debug\net6.0\10. Rage Expenses.exe
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\10. Rage Expenses\bin\Debug\net6.0\10. Rage Expenses.deps.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\10. Rage Expenses\bin\Debug\net6.0\10. Rage Expenses.runtimeconfig.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\10. Rage Expenses\bin\Debug\net6.0\10. Rage Expenses.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\10. Rage Expenses\bin\Debug\net6.0\10. Rage Expenses.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\10. Rage Expenses\obj\Debug\net6.0\10. Rage Expenses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\10. Rage Expenses\obj\Debug\net6.0\10. Rage Expenses.AssemblyInfoInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\10. Rage Expenses\obj\Debug\net6.0\10. Rage Expenses.AssemblyInfo.cs
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\10. Rage Expenses\obj\Debug\net6.0\10. Rage Expenses.csproj.CoreCompileInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\10. Rage Expenses\obj\Debug\net6.0\10. Rage Expenses.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\10. Rage Expenses\obj\Debug\net6.0\refint\10. Rage Expenses.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\10. Rage Expenses\obj\Debug\net6.0\10. Rage Expenses.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\10. Rage Expenses\obj\Debug\net6.0\10. Rage Expenses.genruntimeconfig.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\10. Rage Expenses\obj\Debug\net6.0\ref\10. Rage Expenses.dll
