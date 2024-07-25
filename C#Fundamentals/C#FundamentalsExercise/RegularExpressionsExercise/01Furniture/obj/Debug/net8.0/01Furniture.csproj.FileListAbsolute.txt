@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Regular Expressions\RegularExpressions\01Furniture\bin\Debug\net8.0\01Furniture.exe
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Regular Expressions\RegularExpressions\01Furniture\bin\Debug\net8.0\01Furniture.deps.json
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Regular Expressions\RegularExpressions\01Furniture\bin\Debug\net8.0\01Furniture.runtimeconfig.json
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Regular Expressions\RegularExpressions\01Furniture\bin\Debug\net8.0\01Furniture.dll
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Regular Expressions\RegularExpressions\01Furniture\bin\Debug\net8.0\01Furniture.pdb
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Regular Expressions\RegularExpressions\01Furniture\obj\Debug\net8.0\01Furniture.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Regular Expressions\RegularExpressions\01Furniture\obj\Debug\net8.0\01Furniture.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Regular Expressions\RegularExpressions\01Furniture\obj\Debug\net8.0\01Furniture.AssemblyInfo.cs
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Regular Expressions\RegularExpressions\01Furniture\obj\Debug\net8.0\01Furniture.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Regular Expressions\RegularExpressions\01Furniture\obj\Debug\net8.0\01Furniture.dll
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Regular Expressions\RegularExpressions\01Furniture\obj\Debug\net8.0\refint\01Furniture.dll
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Regular Expressions\RegularExpressions\01Furniture\obj\Debug\net8.0\01Furniture.pdb
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Regular Expressions\RegularExpressions\01Furniture\obj\Debug\net8.0\01Furniture.genruntimeconfig.cache
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Regular Expressions\RegularExpressions\01Furniture\obj\Debug\net8.0\ref\01Furniture.dll
