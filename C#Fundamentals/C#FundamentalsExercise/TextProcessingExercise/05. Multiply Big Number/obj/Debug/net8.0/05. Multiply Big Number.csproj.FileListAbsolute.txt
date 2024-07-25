@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Text Processing - Exercise\Text Processing - Exercise\05. Multiply Big Number\bin\Debug\net8.0\05. Multiply Big Number.exe
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Text Processing - Exercise\Text Processing - Exercise\05. Multiply Big Number\bin\Debug\net8.0\05. Multiply Big Number.deps.json
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Text Processing - Exercise\Text Processing - Exercise\05. Multiply Big Number\bin\Debug\net8.0\05. Multiply Big Number.runtimeconfig.json
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Text Processing - Exercise\Text Processing - Exercise\05. Multiply Big Number\bin\Debug\net8.0\05. Multiply Big Number.dll
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Text Processing - Exercise\Text Processing - Exercise\05. Multiply Big Number\bin\Debug\net8.0\05. Multiply Big Number.pdb
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Text Processing - Exercise\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net8.0\05. Multiply Big Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Text Processing - Exercise\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net8.0\05. Multiply Big Number.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Text Processing - Exercise\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net8.0\05. Multiply Big Number.AssemblyInfo.cs
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Text Processing - Exercise\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net8.0\05. Multiply Big Number.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Text Processing - Exercise\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net8.0\05. Multiply Big Number.dll
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Text Processing - Exercise\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net8.0\refint\05. Multiply Big Number.dll
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Text Processing - Exercise\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net8.0\05. Multiply Big Number.pdb
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Text Processing - Exercise\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net8.0\05. Multiply Big Number.genruntimeconfig.cache
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Text Processing - Exercise\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\net8.0\ref\05. Multiply Big Number.dll
