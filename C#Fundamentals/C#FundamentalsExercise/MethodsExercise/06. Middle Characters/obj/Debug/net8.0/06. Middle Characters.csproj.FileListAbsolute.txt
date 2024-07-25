@@ -1,0 +1,14 @@
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Methods\06. Middle Characters\bin\Debug\net8.0\06. Middle Characters.exe
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Methods\06. Middle Characters\bin\Debug\net8.0\06. Middle Characters.deps.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Methods\06. Middle Characters\bin\Debug\net8.0\06. Middle Characters.runtimeconfig.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Methods\06. Middle Characters\bin\Debug\net8.0\06. Middle Characters.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Methods\06. Middle Characters\bin\Debug\net8.0\06. Middle Characters.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Methods\06. Middle Characters\obj\Debug\net8.0\06. Middle Characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Methods\06. Middle Characters\obj\Debug\net8.0\06. Middle Characters.AssemblyInfoInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Methods\06. Middle Characters\obj\Debug\net8.0\06. Middle Characters.AssemblyInfo.cs
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Methods\06. Middle Characters\obj\Debug\net8.0\06. Middle Characters.csproj.CoreCompileInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Methods\06. Middle Characters\obj\Debug\net8.0\06. Middle Characters.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Methods\06. Middle Characters\obj\Debug\net8.0\refint\06. Middle Characters.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Methods\06. Middle Characters\obj\Debug\net8.0\06. Middle Characters.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Methods\06. Middle Characters\obj\Debug\net8.0\06. Middle Characters.genruntimeconfig.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Methods\06. Middle Characters\obj\Debug\net8.0\ref\06. Middle Characters.dll
