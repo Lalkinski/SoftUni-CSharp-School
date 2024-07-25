@@ -1,0 +1,14 @@
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Methods\9. Palindrome Integers\bin\Debug\net8.0\9. Palindrome Integers.exe
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Methods\9. Palindrome Integers\bin\Debug\net8.0\9. Palindrome Integers.deps.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Methods\9. Palindrome Integers\bin\Debug\net8.0\9. Palindrome Integers.runtimeconfig.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Methods\9. Palindrome Integers\bin\Debug\net8.0\9. Palindrome Integers.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Methods\9. Palindrome Integers\bin\Debug\net8.0\9. Palindrome Integers.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Methods\9. Palindrome Integers\obj\Debug\net8.0\9. Palindrome Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Methods\9. Palindrome Integers\obj\Debug\net8.0\9. Palindrome Integers.AssemblyInfoInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Methods\9. Palindrome Integers\obj\Debug\net8.0\9. Palindrome Integers.AssemblyInfo.cs
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Methods\9. Palindrome Integers\obj\Debug\net8.0\9. Palindrome Integers.csproj.CoreCompileInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Methods\9. Palindrome Integers\obj\Debug\net8.0\9. Palindrome Integers.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Methods\9. Palindrome Integers\obj\Debug\net8.0\refint\9. Palindrome Integers.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Methods\9. Palindrome Integers\obj\Debug\net8.0\9. Palindrome Integers.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Methods\9. Palindrome Integers\obj\Debug\net8.0\9. Palindrome Integers.genruntimeconfig.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Methods\9. Palindrome Integers\obj\Debug\net8.0\ref\9. Palindrome Integers.dll
