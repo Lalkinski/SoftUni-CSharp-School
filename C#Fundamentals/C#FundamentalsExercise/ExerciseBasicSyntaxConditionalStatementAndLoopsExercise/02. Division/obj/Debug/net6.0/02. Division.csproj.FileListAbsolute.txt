@@ -1,0 +1,14 @@
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\02. Division\bin\Debug\net6.0\02. Division.exe
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\02. Division\bin\Debug\net6.0\02. Division.deps.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\02. Division\bin\Debug\net6.0\02. Division.runtimeconfig.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\02. Division\bin\Debug\net6.0\02. Division.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\02. Division\bin\Debug\net6.0\02. Division.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\02. Division\obj\Debug\net6.0\02. Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\02. Division\obj\Debug\net6.0\02. Division.AssemblyInfoInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\02. Division\obj\Debug\net6.0\02. Division.AssemblyInfo.cs
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\02. Division\obj\Debug\net6.0\02. Division.csproj.CoreCompileInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\02. Division\obj\Debug\net6.0\02. Division.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\02. Division\obj\Debug\net6.0\refint\02. Division.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\02. Division\obj\Debug\net6.0\02. Division.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\02. Division\obj\Debug\net6.0\02. Division.genruntimeconfig.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\02. Division\obj\Debug\net6.0\ref\02. Division.dll

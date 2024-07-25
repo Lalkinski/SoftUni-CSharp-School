@@ -1,0 +1,14 @@
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\1.Ages\bin\Debug\net6.0\1.Ages.exe
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\1.Ages\bin\Debug\net6.0\1.Ages.deps.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\1.Ages\bin\Debug\net6.0\1.Ages.runtimeconfig.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\1.Ages\bin\Debug\net6.0\1.Ages.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\1.Ages\bin\Debug\net6.0\1.Ages.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\1.Ages\obj\Debug\net6.0\1.Ages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\1.Ages\obj\Debug\net6.0\1.Ages.AssemblyInfoInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\1.Ages\obj\Debug\net6.0\1.Ages.AssemblyInfo.cs
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\1.Ages\obj\Debug\net6.0\1.Ages.csproj.CoreCompileInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\1.Ages\obj\Debug\net6.0\1.Ages.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\1.Ages\obj\Debug\net6.0\refint\1.Ages.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\1.Ages\obj\Debug\net6.0\1.Ages.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\1.Ages\obj\Debug\net6.0\1.Ages.genruntimeconfig.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\1.Ages\obj\Debug\net6.0\ref\1.Ages.dll
