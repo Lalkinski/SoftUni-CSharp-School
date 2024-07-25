@@ -1,0 +1,14 @@
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Text Processing - Exercise\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\net8.0\04. Caesar Cipher.exe
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Text Processing - Exercise\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\net8.0\04. Caesar Cipher.deps.json
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Text Processing - Exercise\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\net8.0\04. Caesar Cipher.runtimeconfig.json
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Text Processing - Exercise\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\net8.0\04. Caesar Cipher.dll
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Text Processing - Exercise\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\net8.0\04. Caesar Cipher.pdb
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Text Processing - Exercise\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net8.0\04. Caesar Cipher.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Text Processing - Exercise\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net8.0\04. Caesar Cipher.AssemblyInfoInputs.cache
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Text Processing - Exercise\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net8.0\04. Caesar Cipher.AssemblyInfo.cs
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Text Processing - Exercise\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net8.0\04. Caesar Cipher.csproj.CoreCompileInputs.cache
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Text Processing - Exercise\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net8.0\04. Caesar Cipher.dll
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Text Processing - Exercise\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net8.0\refint\04. Caesar Cipher.dll
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Text Processing - Exercise\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net8.0\04. Caesar Cipher.pdb
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Text Processing - Exercise\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net8.0\04. Caesar Cipher.genruntimeconfig.cache
+D:\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Text Processing - Exercise\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\net8.0\ref\04. Caesar Cipher.dll
