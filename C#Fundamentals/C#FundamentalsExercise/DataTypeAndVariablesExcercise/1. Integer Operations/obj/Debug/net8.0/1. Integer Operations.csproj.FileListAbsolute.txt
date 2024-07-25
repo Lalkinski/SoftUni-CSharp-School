@@ -1,0 +1,14 @@
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Data Types and Variables - Exercise\1. Integer Operations\bin\Debug\net8.0\1. Integer Operations.exe
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Data Types and Variables - Exercise\1. Integer Operations\bin\Debug\net8.0\1. Integer Operations.deps.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Data Types and Variables - Exercise\1. Integer Operations\bin\Debug\net8.0\1. Integer Operations.runtimeconfig.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Data Types and Variables - Exercise\1. Integer Operations\bin\Debug\net8.0\1. Integer Operations.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Data Types and Variables - Exercise\1. Integer Operations\bin\Debug\net8.0\1. Integer Operations.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Data Types and Variables - Exercise\1. Integer Operations\obj\Debug\net8.0\1. Integer Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Data Types and Variables - Exercise\1. Integer Operations\obj\Debug\net8.0\1. Integer Operations.AssemblyInfoInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Data Types and Variables - Exercise\1. Integer Operations\obj\Debug\net8.0\1. Integer Operations.AssemblyInfo.cs
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Data Types and Variables - Exercise\1. Integer Operations\obj\Debug\net8.0\1. Integer Operations.csproj.CoreCompileInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Data Types and Variables - Exercise\1. Integer Operations\obj\Debug\net8.0\1. Integer Operations.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Data Types and Variables - Exercise\1. Integer Operations\obj\Debug\net8.0\refint\1. Integer Operations.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Data Types and Variables - Exercise\1. Integer Operations\obj\Debug\net8.0\1. Integer Operations.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Data Types and Variables - Exercise\1. Integer Operations\obj\Debug\net8.0\1. Integer Operations.genruntimeconfig.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Data Types and Variables - Exercise\1. Integer Operations\obj\Debug\net8.0\ref\1. Integer Operations.dll
