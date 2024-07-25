@@ -1,0 +1,14 @@
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Objects and Classes - Exercise\Objects and Classes\02. Articles\bin\Debug\net8.0\02. Articles.exe
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Objects and Classes - Exercise\Objects and Classes\02. Articles\bin\Debug\net8.0\02. Articles.deps.json
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Objects and Classes - Exercise\Objects and Classes\02. Articles\bin\Debug\net8.0\02. Articles.runtimeconfig.json
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Objects and Classes - Exercise\Objects and Classes\02. Articles\bin\Debug\net8.0\02. Articles.dll
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Objects and Classes - Exercise\Objects and Classes\02. Articles\bin\Debug\net8.0\02. Articles.pdb
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Objects and Classes - Exercise\Objects and Classes\02. Articles\obj\Debug\net8.0\02. Articles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Objects and Classes - Exercise\Objects and Classes\02. Articles\obj\Debug\net8.0\02. Articles.AssemblyInfoInputs.cache
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Objects and Classes - Exercise\Objects and Classes\02. Articles\obj\Debug\net8.0\02. Articles.AssemblyInfo.cs
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Objects and Classes - Exercise\Objects and Classes\02. Articles\obj\Debug\net8.0\02. Articles.csproj.CoreCompileInputs.cache
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Objects and Classes - Exercise\Objects and Classes\02. Articles\obj\Debug\net8.0\02. Articles.dll
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Objects and Classes - Exercise\Objects and Classes\02. Articles\obj\Debug\net8.0\refint\02. Articles.dll
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Objects and Classes - Exercise\Objects and Classes\02. Articles\obj\Debug\net8.0\02. Articles.pdb
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Objects and Classes - Exercise\Objects and Classes\02. Articles\obj\Debug\net8.0\02. Articles.genruntimeconfig.cache
+C:\Users\Lalkinski\Documents\C# Programmer\SoftUni Fundamentals\Fundamentals - Exersice\Objects and Classes - Exercise\Objects and Classes\02. Articles\obj\Debug\net8.0\ref\02. Articles.dll
