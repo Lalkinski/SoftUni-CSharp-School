@@ -1,0 +1,14 @@
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\7. Vending Machine\bin\Debug\net6.0\7. Vending Machine.exe
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\7. Vending Machine\bin\Debug\net6.0\7. Vending Machine.deps.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\7. Vending Machine\bin\Debug\net6.0\7. Vending Machine.runtimeconfig.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\7. Vending Machine\bin\Debug\net6.0\7. Vending Machine.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\7. Vending Machine\bin\Debug\net6.0\7. Vending Machine.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\7. Vending Machine\obj\Debug\net6.0\7. Vending Machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\7. Vending Machine\obj\Debug\net6.0\7. Vending Machine.AssemblyInfoInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\7. Vending Machine\obj\Debug\net6.0\7. Vending Machine.AssemblyInfo.cs
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\7. Vending Machine\obj\Debug\net6.0\7. Vending Machine.csproj.CoreCompileInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\7. Vending Machine\obj\Debug\net6.0\7. Vending Machine.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\7. Vending Machine\obj\Debug\net6.0\refint\7. Vending Machine.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\7. Vending Machine\obj\Debug\net6.0\7. Vending Machine.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\7. Vending Machine\obj\Debug\net6.0\7. Vending Machine.genruntimeconfig.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\7. Vending Machine\obj\Debug\net6.0\ref\7. Vending Machine.dll

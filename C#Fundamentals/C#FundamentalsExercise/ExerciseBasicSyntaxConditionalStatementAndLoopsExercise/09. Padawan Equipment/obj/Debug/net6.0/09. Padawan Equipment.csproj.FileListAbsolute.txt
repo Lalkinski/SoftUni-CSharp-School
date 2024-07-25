@@ -1,0 +1,14 @@
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\09. Padawan Equipment\bin\Debug\net6.0\09. Padawan Equipment.exe
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\09. Padawan Equipment\bin\Debug\net6.0\09. Padawan Equipment.deps.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\09. Padawan Equipment\bin\Debug\net6.0\09. Padawan Equipment.runtimeconfig.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\09. Padawan Equipment\bin\Debug\net6.0\09. Padawan Equipment.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\09. Padawan Equipment\bin\Debug\net6.0\09. Padawan Equipment.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\09. Padawan Equipment\obj\Debug\net6.0\09. Padawan Equipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\09. Padawan Equipment\obj\Debug\net6.0\09. Padawan Equipment.AssemblyInfoInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\09. Padawan Equipment\obj\Debug\net6.0\09. Padawan Equipment.AssemblyInfo.cs
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\09. Padawan Equipment\obj\Debug\net6.0\09. Padawan Equipment.csproj.CoreCompileInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\09. Padawan Equipment\obj\Debug\net6.0\09. Padawan Equipment.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\09. Padawan Equipment\obj\Debug\net6.0\refint\09. Padawan Equipment.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\09. Padawan Equipment\obj\Debug\net6.0\09. Padawan Equipment.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\09. Padawan Equipment\obj\Debug\net6.0\09. Padawan Equipment.genruntimeconfig.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Exercise Basic Syntax, Conditional Statements and Loops\09. Padawan Equipment\obj\Debug\net6.0\ref\09. Padawan Equipment.dll
