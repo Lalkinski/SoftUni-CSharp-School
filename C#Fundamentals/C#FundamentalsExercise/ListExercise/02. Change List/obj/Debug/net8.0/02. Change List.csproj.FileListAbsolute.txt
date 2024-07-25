@@ -1,0 +1,14 @@
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\02. Change List\bin\Debug\net8.0\02. Change List.exe
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\02. Change List\bin\Debug\net8.0\02. Change List.deps.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\02. Change List\bin\Debug\net8.0\02. Change List.runtimeconfig.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\02. Change List\bin\Debug\net8.0\02. Change List.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\02. Change List\bin\Debug\net8.0\02. Change List.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\02. Change List\obj\Debug\net8.0\02. Change List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\02. Change List\obj\Debug\net8.0\02. Change List.AssemblyInfoInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\02. Change List\obj\Debug\net8.0\02. Change List.AssemblyInfo.cs
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\02. Change List\obj\Debug\net8.0\02. Change List.csproj.CoreCompileInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\02. Change List\obj\Debug\net8.0\02. Change List.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\02. Change List\obj\Debug\net8.0\refint\02. Change List.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\02. Change List\obj\Debug\net8.0\02. Change List.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\02. Change List\obj\Debug\net8.0\02. Change List.genruntimeconfig.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\02. Change List\obj\Debug\net8.0\ref\02. Change List.dll
