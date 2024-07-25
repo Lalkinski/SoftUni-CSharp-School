@@ -1,0 +1,14 @@
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\04. List Operations\bin\Debug\net8.0\04. List Operations.exe
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\04. List Operations\bin\Debug\net8.0\04. List Operations.deps.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\04. List Operations\bin\Debug\net8.0\04. List Operations.runtimeconfig.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\04. List Operations\bin\Debug\net8.0\04. List Operations.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\04. List Operations\bin\Debug\net8.0\04. List Operations.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\04. List Operations\obj\Debug\net8.0\04. List Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\04. List Operations\obj\Debug\net8.0\04. List Operations.AssemblyInfoInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\04. List Operations\obj\Debug\net8.0\04. List Operations.AssemblyInfo.cs
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\04. List Operations\obj\Debug\net8.0\04. List Operations.csproj.CoreCompileInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\04. List Operations\obj\Debug\net8.0\04. List Operations.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\04. List Operations\obj\Debug\net8.0\refint\04. List Operations.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\04. List Operations\obj\Debug\net8.0\04. List Operations.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\04. List Operations\obj\Debug\net8.0\04. List Operations.genruntimeconfig.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\04. List Operations\obj\Debug\net8.0\ref\04. List Operations.dll

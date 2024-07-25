@@ -1,0 +1,14 @@
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\5. Bomb Numbers\bin\Debug\net8.0\5. Bomb Numbers.exe
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\5. Bomb Numbers\bin\Debug\net8.0\5. Bomb Numbers.deps.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\5. Bomb Numbers\bin\Debug\net8.0\5. Bomb Numbers.runtimeconfig.json
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\5. Bomb Numbers\bin\Debug\net8.0\5. Bomb Numbers.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\5. Bomb Numbers\bin\Debug\net8.0\5. Bomb Numbers.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\5. Bomb Numbers\obj\Debug\net8.0\5. Bomb Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\5. Bomb Numbers\obj\Debug\net8.0\5. Bomb Numbers.AssemblyInfoInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\5. Bomb Numbers\obj\Debug\net8.0\5. Bomb Numbers.AssemblyInfo.cs
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\5. Bomb Numbers\obj\Debug\net8.0\5. Bomb Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\5. Bomb Numbers\obj\Debug\net8.0\5. Bomb Numbers.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\5. Bomb Numbers\obj\Debug\net8.0\refint\5. Bomb Numbers.dll
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\5. Bomb Numbers\obj\Debug\net8.0\5. Bomb Numbers.pdb
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\5. Bomb Numbers\obj\Debug\net8.0\5. Bomb Numbers.genruntimeconfig.cache
+C:\Users\Lalkinski\Documents\SoftUni Fundamentals\Fundamentals - Exersice\Lists - Exercise\5. Bomb Numbers\obj\Debug\net8.0\ref\5. Bomb Numbers.dll
