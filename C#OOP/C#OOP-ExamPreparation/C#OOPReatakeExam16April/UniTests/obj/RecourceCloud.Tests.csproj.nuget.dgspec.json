@@ -1,0 +1,154 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\C# Programmer\\SoftUni - OOP\\C# OOP-ExamExercise\\C#OOPRetakeExam16April2024\\UnitTests\\RecourceCloud.Tests\\RecourceCloud.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\C# Programmer\\SoftUni - OOP\\C# OOP-ExamExercise\\C#OOPRetakeExam16April2024\\UnitTests\\RecourceCloud.Tests\\RecourceCloud.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C# Programmer\\SoftUni - OOP\\C# OOP-ExamExercise\\C#OOPRetakeExam16April2024\\UnitTests\\RecourceCloud.Tests\\RecourceCloud.Tests.csproj",
+        "projectName": "RecourceCloud.Tests",
+        "projectPath": "D:\\C# Programmer\\SoftUni - OOP\\C# OOP-ExamExercise\\C#OOPRetakeExam16April2024\\UnitTests\\RecourceCloud.Tests\\RecourceCloud.Tests.csproj",
+        "packagesPath": "C:\\Users\\Lalkinski\\.nuget\\packages\\",
+        "outputPath": "D:\\C# Programmer\\SoftUni - OOP\\C# OOP-ExamExercise\\C#OOPRetakeExam16April2024\\UnitTests\\RecourceCloud.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lalkinski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\C# Programmer\\SoftUni - OOP\\C# OOP-ExamExercise\\C#OOPRetakeExam16April2024\\UnitTests\\RecourceCloud\\RecourceCloud.csproj": {
+                "projectPath": "D:\\C# Programmer\\SoftUni - OOP\\C# OOP-ExamExercise\\C#OOPRetakeExam16April2024\\UnitTests\\RecourceCloud\\RecourceCloud.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.4.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\C# Programmer\\SoftUni - OOP\\C# OOP-ExamExercise\\C#OOPRetakeExam16April2024\\UnitTests\\RecourceCloud\\RecourceCloud.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\C# Programmer\\SoftUni - OOP\\C# OOP-ExamExercise\\C#OOPRetakeExam16April2024\\UnitTests\\RecourceCloud\\RecourceCloud.csproj",
+        "projectName": "RecourceCloud",
+        "projectPath": "D:\\C# Programmer\\SoftUni - OOP\\C# OOP-ExamExercise\\C#OOPRetakeExam16April2024\\UnitTests\\RecourceCloud\\RecourceCloud.csproj",
+        "packagesPath": "C:\\Users\\Lalkinski\\.nuget\\packages\\",
+        "outputPath": "D:\\C# Programmer\\SoftUni - OOP\\C# OOP-ExamExercise\\C#OOPRetakeExam16April2024\\UnitTests\\RecourceCloud\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lalkinski\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
